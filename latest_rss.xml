@@ -1,226 +1,226 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>AppSec Ezine #100</title>
-    <link>http://pathonproject.com/zb/?144fdd6535b2a307#H1JGbOEvEOo1BYsXqBkaYApUw0ROE2VHK7xUBzMqS/s=</link>
-    <description>AppSec Ezine #100</description>
+    <title>AppSec Ezine #105</title>
+    <link>http://pathonproject.com/zb/?6d2e89fdcf0e71b1#xm0AxL4KGR+glRY3LfMU71MsO3xHdmmTUdYkLyv/WKY=</link>
+    <description>AppSec Ezine #105</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Jul 2023 18:50:27 +0000</lastBuildDate>
-    <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
+    <lastBuildDate>Sun, 30 Jul 2023 10:00:39 +0000</lastBuildDate>
+    <pubDate>Fri, 19 Feb 2016 00:00:00 +0000</pubDate>
     <item>
-      <title>Must see: TrendMicro node.js HTTP Server listening on localhost can exec commands.</title>
-      <link>https://code.google.com/p/google-security-research/issues/detail?id=693</link>
-      <description><![CDATA[Description: TrendMicro node.js HTTP Server listening on localhost can exec commands.<br />
-URL: <a href='https://code.google.com/p/google-security-research/issues/detail?id=693'>https://code.google.com/p/google-security-research/issues/detail?id=693</a><br />
-PoC: <a href='https://goo.gl/RrTJLS'>https://goo.gl/RrTJLS</a>]]></description>
-      <guid isPermaLink="false">https://code.google.com/p/google-security-research/issues/detail?id=693</guid>
+      <title>Must see: XSS using the Google Toolbar's command.</title>
+      <link>http://mksben.l0.cm/2016/01/google-toolbar-xss.html</link>
+      <description><![CDATA[Description: XSS using the Google Toolbar's command.<br />
+URL: <a href='http://mksben.l0.cm/2016/01/google-toolbar-xss.html'>http://mksben.l0.cm/2016/01/google-toolbar-xss.html</a>]]></description>
+      <guid isPermaLink="false">http://mksben.l0.cm/2016/01/google-toolbar-xss.html</guid>
       <category>Must see</category>
     </item>
     <item>
-      <title>Must see: Binding two processes on the same port for fun and firewall evasion.</title>
-      <link>https://github.com/sghctoma/multipass</link>
-      <description><![CDATA[Description: Binding two processes on the same port for fun and firewall evasion.<br />
-URL: <a href='https://github.com/sghctoma/multipass'>https://github.com/sghctoma/multipass</a>]]></description>
-      <guid isPermaLink="false">https://github.com/sghctoma/multipass</guid>
+      <title>Must see: Stealing Secrets with CSS - Cross Origin CSS Attacks.</title>
+      <link>http://blog.k3170makan.com/2016/02/stealing-secrets-with-css-cross-origin.html</link>
+      <description><![CDATA[Description: Stealing Secrets with CSS - Cross Origin CSS Attacks.<br />
+URL: <a href='http://blog.k3170makan.com/2016/02/stealing-secrets-with-css-cross-origin.html'>http://blog.k3170makan.com/2016/02/stealing-secrets-with-css-cross-origin.html</a>]]></description>
+      <guid isPermaLink="false">http://blog.k3170makan.com/2016/02/stealing-secrets-with-css-cross-origin.html</guid>
       <category>Must see</category>
     </item>
     <item>
-      <title>Must see: A tale of eBay XSS and shoddy incident response.</title>
-      <link>https://goo.gl/tmvgpl</link>
-      <description><![CDATA[Description: A tale of eBay XSS and shoddy incident response.<br />
-URL: <a href='https://goo.gl/tmvgpl'>https://goo.gl/tmvgpl</a><br />
-bit.ly inspect: <a href='https://goo.gl/tmvgpl+'>https://goo.gl/tmvgpl+</a>]]></description>
-      <guid isPermaLink="false">https://goo.gl/tmvgpl</guid>
+      <title>Must see: HTTP Response Splitting in Nodejs.</title>
+      <link>http://info.safebreach.com/hubfs/Node-js-Response-Splitting.pdf</link>
+      <description><![CDATA[Description: HTTP Response Splitting in Nodejs.<br />
+URL: <a href='http://info.safebreach.com/hubfs/Node-js-Response-Splitting.pdf'>http://info.safebreach.com/hubfs/Node-js-Response-Splitting.pdf</a><br />
+Blog: <a href='http://goo.gl/AE7S2O'>http://goo.gl/AE7S2O</a>]]></description>
+      <guid isPermaLink="false">http://info.safebreach.com/hubfs/Node-js-Response-Splitting.pdf</guid>
       <category>Must see</category>
     </item>
     <item>
-      <title>Hack: DHCPwn is a tool used for testing DHCP IP exhaustion attacks.</title>
-      <link>https://github.com/mschwager/dhcpwn</link>
-      <description><![CDATA[Description: DHCPwn is a tool used for testing DHCP IP exhaustion attacks.<br />
-URL: <a href='https://github.com/mschwager/dhcpwn'>https://github.com/mschwager/dhcpwn</a>]]></description>
-      <guid isPermaLink="false">https://github.com/mschwager/dhcpwn</guid>
+      <title>Hack: Evade monitoring by IP spoofing in Kali Linux with torsocks.</title>
+      <link>http://www.blackmoreops.com/2015/12/28/ip-spoofing-in-kali-linux-with-torsocks/</link>
+      <description><![CDATA[Description: Evade monitoring by IP spoofing in Kali Linux with torsocks.<br />
+URL: <a href='http://www.blackmoreops.com/2015/12/28/ip-spoofing-in-kali-linux-with-torsocks/'>http://www.blackmoreops.com/2015/12/28/ip-spoofing-in-kali-linux-with-torsocks/</a>]]></description>
+      <guid isPermaLink="false">http://www.blackmoreops.com/2015/12/28/ip-spoofing-in-kali-linux-with-torsocks/</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: Windows tool for dumping malware PE files from memory back to disk.</title>
-      <link>https://github.com/glmcdona/Process-Dump</link>
-      <description><![CDATA[Description: Windows tool for dumping malware PE files from memory back to disk.<br />
-URL: <a href='https://github.com/glmcdona/Process-Dump'>https://github.com/glmcdona/Process-Dump</a>]]></description>
-      <guid isPermaLink="false">https://github.com/glmcdona/Process-Dump</guid>
+      <title>Hack: Decryptor for the TeslaCrypt malware.</title>
+      <link>https://github.com/Googulator/TeslaCrack</link>
+      <description><![CDATA[Description: Decryptor for the TeslaCrypt malware.<br />
+URL: <a href='https://github.com/Googulator/TeslaCrack'>https://github.com/Googulator/TeslaCrack</a>]]></description>
+      <guid isPermaLink="false">https://github.com/Googulator/TeslaCrack</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: Python Pastebin Webcrawler (keywords filtering).</title>
-      <link>https://github.com/kahunalu/pwnbin</link>
-      <description><![CDATA[Description: Python Pastebin Webcrawler (keywords filtering).<br />
-URL: <a href='https://github.com/kahunalu/pwnbin'>https://github.com/kahunalu/pwnbin</a>]]></description>
-      <guid isPermaLink="false">https://github.com/kahunalu/pwnbin</guid>
+      <title>Hack: An intercepting proxy for web application testing.</title>
+      <link>https://github.com/roglew/pappy-proxy</link>
+      <description><![CDATA[Description: An intercepting proxy for web application testing.<br />
+URL: <a href='https://github.com/roglew/pappy-proxy'>https://github.com/roglew/pappy-proxy</a>]]></description>
+      <guid isPermaLink="false">https://github.com/roglew/pappy-proxy</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: IOActive Labs Tools (Dump).</title>
-      <link>http://www.ioactive.com/labs/tools.html</link>
-      <description><![CDATA[Description: IOActive Labs Tools (Dump).<br />
-URL: <a href='http://www.ioactive.com/labs/tools.html'>http://www.ioactive.com/labs/tools.html</a>]]></description>
-      <guid isPermaLink="false">http://www.ioactive.com/labs/tools.html</guid>
+      <title>Hack: Tools to help with Reverse Engineering UEFI-based firmware.</title>
+      <link>https://github.com/jethrogb/uefireverse</link>
+      <description><![CDATA[Description: Tools to help with Reverse Engineering UEFI-based firmware.<br />
+URL: <a href='https://github.com/jethrogb/uefireverse'>https://github.com/jethrogb/uefireverse</a>]]></description>
+      <guid isPermaLink="false">https://github.com/jethrogb/uefireverse</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: Specify targets and run sets of tools against them (L4m3 Autopwn).</title>
-      <link>https://github.com/nccgroup/autopwn</link>
-      <description><![CDATA[Description: Specify targets and run sets of tools against them (L4m3 Autopwn).<br />
-URL: <a href='https://github.com/nccgroup/autopwn'>https://github.com/nccgroup/autopwn</a>]]></description>
-      <guid isPermaLink="false">https://github.com/nccgroup/autopwn</guid>
+      <title>Hack: Search and brute force illegal IPTV server.</title>
+      <link>https://github.com/Pinperepette/IPTV</link>
+      <description><![CDATA[Description: Search and brute force illegal IPTV server.<br />
+URL: <a href='https://github.com/Pinperepette/IPTV'>https://github.com/Pinperepette/IPTV</a>]]></description>
+      <guid isPermaLink="false">https://github.com/Pinperepette/IPTV</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: Hacking the ATN X-sight.</title>
-      <link>http://www.phillips321.co.uk/2015/11/24/hacking-the-atn-x-sight-part1/</link>
-      <description><![CDATA[Description: Hacking the ATN X-sight.<br />
-URL: <a href='http://www.phillips321.co.uk/2015/11/24/hacking-the-atn-x-sight-part1/'>http://www.phillips321.co.uk/2015/11/24/hacking-the-atn-x-sight-part1/</a>]]></description>
-      <guid isPermaLink="false">http://www.phillips321.co.uk/2015/11/24/hacking-the-atn-x-sight-part1/</guid>
+      <title>Hack: Full-packet-capture util for buffering packets to disk for IDS/IR purposes.</title>
+      <link>https://github.com/google/stenographer</link>
+      <description><![CDATA[Description: Full-packet-capture util for buffering packets to disk for IDS/IR purposes.<br />
+URL: <a href='https://github.com/google/stenographer'>https://github.com/google/stenographer</a>]]></description>
+      <guid isPermaLink="false">https://github.com/google/stenographer</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: Hide registry key form regedit like poweliks.</title>
-      <link>https://github.com/ithurricane/SampleCode/blob/master/hidereg_r0r3.c</link>
-      <description><![CDATA[Description: Hide registry key form regedit like poweliks.<br />
-URL: <a href='https://github.com/ithurricane/SampleCode/blob/master/hidereg_r0r3.c'>https://github.com/ithurricane/SampleCode/blob/master/hidereg_r0r3.c</a>]]></description>
-      <guid isPermaLink="false">https://github.com/ithurricane/SampleCode/blob/master/hidereg_r0r3.c</guid>
+      <title>Hack: A fork and successor of the Sulley Fuzzing Framework.</title>
+      <link>https://github.com/jtpereyda/boofuzz</link>
+      <description><![CDATA[Description: A fork and successor of the Sulley Fuzzing Framework.<br />
+URL: <a href='https://github.com/jtpereyda/boofuzz'>https://github.com/jtpereyda/boofuzz</a>]]></description>
+      <guid isPermaLink="false">https://github.com/jtpereyda/boofuzz</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: Small-scale CA with SmartCard support.</title>
-      <link>https://github.com/sektioneins/micro-ca-tool</link>
-      <description><![CDATA[Description: Small-scale CA with SmartCard support.<br />
-URL: <a href='https://github.com/sektioneins/micro-ca-tool'>https://github.com/sektioneins/micro-ca-tool</a>]]></description>
-      <guid isPermaLink="false">https://github.com/sektioneins/micro-ca-tool</guid>
+      <title>Hack: Privilege escalation on a Linux system helper.</title>
+      <link>https://github.com/NullArray/RootHelper</link>
+      <description><![CDATA[Description: Privilege escalation on a Linux system helper.<br />
+URL: <a href='https://github.com/NullArray/RootHelper'>https://github.com/NullArray/RootHelper</a>]]></description>
+      <guid isPermaLink="false">https://github.com/NullArray/RootHelper</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: Exploiting JBoss with Empire and PowerShell.</title>
-      <link>http://goo.gl/Cqotff</link>
-      <description><![CDATA[Description: Exploiting JBoss with Empire and PowerShell.<br />
-URL: <a href='http://goo.gl/Cqotff'>http://goo.gl/Cqotff</a><br />
-bit.ly inspect: <a href='http://goo.gl/Cqotff+'>http://goo.gl/Cqotff+</a>]]></description>
-      <guid isPermaLink="false">http://goo.gl/Cqotff</guid>
+      <title>Hack: A unified console to perform the "kill chain" stages of attacks.</title>
+      <link>https://github.com/ruped24/killchain</link>
+      <description><![CDATA[Description: A unified console to perform the "kill chain" stages of attacks.<br />
+URL: <a href='https://github.com/ruped24/killchain'>https://github.com/ruped24/killchain</a>]]></description>
+      <guid isPermaLink="false">https://github.com/ruped24/killchain</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: From XSS to RCE 2.0 (Black Hat Europe Arsenal 2015).</title>
-      <link>https://github.com/Varbaek/xsser</link>
-      <description><![CDATA[Description: From XSS to RCE 2.0 (Black Hat Europe Arsenal 2015).<br />
-URL: <a href='https://github.com/Varbaek/xsser'>https://github.com/Varbaek/xsser</a>]]></description>
-      <guid isPermaLink="false">https://github.com/Varbaek/xsser</guid>
+      <title>Hack: Python library for crafting SAP's network protocols packets.</title>
+      <link>https://github.com/CoreSecurity/pysap</link>
+      <description><![CDATA[Description: Python library for crafting SAP's network protocols packets.<br />
+URL: <a href='https://github.com/CoreSecurity/pysap'>https://github.com/CoreSecurity/pysap</a>]]></description>
+      <guid isPermaLink="false">https://github.com/CoreSecurity/pysap</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Security: OpenSSH - Information leak vulnerability (CVE-2016-0777).</title>
-      <link>https://goo.gl/Jal7oS</link>
-      <description><![CDATA[Description: OpenSSH - Information leak vulnerability (CVE-2016-0777).<br />
-URL: <a href='https://goo.gl/Jal7oS'>https://goo.gl/Jal7oS</a><br />
-bit.ly inspect: <a href='https://goo.gl/Jal7oS+'>https://goo.gl/Jal7oS+</a><br />
-Release: <a href='http://www.openssh.com/txt/release'>http://www.openssh.com/txt/release</a>]]></description>
-      <guid isPermaLink="false">https://goo.gl/Jal7oS</guid>
+      <title>Security: glibc getaddrinfo stack-based buffer overflow (CVE-2015-7547).</title>
+      <link>https://goo.gl/3eoqgc</link>
+      <description><![CDATA[Description: glibc getaddrinfo stack-based buffer overflow (CVE-2015-7547).<br />
+URL: <a href='https://goo.gl/3eoqgc'>https://goo.gl/3eoqgc</a><br />
+bit.ly inspect: <a href='https://goo.gl/3eoqgc+'>https://goo.gl/3eoqgc+</a><br />
+More: <a href='https://00f.net/2016/02/17/cve'>https://00f.net/2016/02/17/cve</a><br />
+PoC: <a href='https://github.com/fjserna/CVE'>https://github.com/fjserna/CVE</a>]]></description>
+      <guid isPermaLink="false">https://goo.gl/3eoqgc</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: Don't use VPN services.</title>
-      <link>https://gist.github.com/joepie91/5a9909939e6ce7d09e29</link>
-      <description><![CDATA[Description: Don't use VPN services.<br />
-URL: <a href='https://gist.github.com/joepie91/5a9909939e6ce7d09e29'>https://gist.github.com/joepie91/5a9909939e6ce7d09e29</a>]]></description>
-      <guid isPermaLink="false">https://gist.github.com/joepie91/5a9909939e6ce7d09e29</guid>
+      <title>Security: Automated Derivative Administrator Search.</title>
+      <link>https://wald0.com/?p=14</link>
+      <description><![CDATA[Description: Automated Derivative Administrator Search.<br />
+URL: <a href='https://wald0.com/?p=14'>https://wald0.com/?p=14</a><br />
+PoC: <a href='https://github.com/andyrobbins/PowerPath'>https://github.com/andyrobbins/PowerPath</a>]]></description>
+      <guid isPermaLink="false">https://wald0.com/?p=14</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: Debugging With Wireshark - TLS.</title>
-      <link>http://lukasa.co.uk/2016/01/Debugging_With_Wireshark_TLS/</link>
-      <description><![CDATA[Description: Debugging With Wireshark - TLS.<br />
-URL: <a href='http://lukasa.co.uk/2016/01/Debugging_With_Wireshark_TLS/'>http://lukasa.co.uk/2016/01/Debugging_With_Wireshark_TLS/</a>]]></description>
-      <guid isPermaLink="false">http://lukasa.co.uk/2016/01/Debugging_With_Wireshark_TLS/</guid>
+      <title>Security: Facebook - How I bypassed Facebook CSRF Protection 2015.</title>
+      <link>http://pouyadarabi.blogspot.pt/2015/04/bypass-facebook-csrf.html</link>
+      <description><![CDATA[Description: Facebook - How I bypassed Facebook CSRF Protection 2015.<br />
+URL: <a href='http://pouyadarabi.blogspot.pt/2015/04/bypass-facebook-csrf.html'>http://pouyadarabi.blogspot.pt/2015/04/bypass-facebook-csrf.html</a>]]></description>
+      <guid isPermaLink="false">http://pouyadarabi.blogspot.pt/2015/04/bypass-facebook-csrf.html</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: MS .NET/Silverlight Manifest Resource Info. Disclosure (CVE-2015-6114).</title>
-      <link>http://www.icewall.pl/?p=732&amp;lang=en</link>
-      <description><![CDATA[Description: MS .NET/Silverlight Manifest Resource Info. Disclosure (CVE-2015-6114).<br />
-URL: <a href='http://www.icewall.pl/?p=732&lang=en'>http://www.icewall.pl/?p=732&lang=en</a>]]></description>
-      <guid isPermaLink="false">http://www.icewall.pl/?p=732&amp;lang=en</guid>
+      <title>Security: A tale of two offline Chrome UXSS vulns.</title>
+      <link>http://ceukelai.re/a-tale-of-two-offline-chrome-uxss-vulns/</link>
+      <description><![CDATA[Description: A tale of two offline Chrome UXSS vulns.<br />
+URL: <a href='http://ceukelai.re/a-tale-of-two-offline-chrome-uxss-vulns/'>http://ceukelai.re/a-tale-of-two-offline-chrome-uxss-vulns/</a>]]></description>
+      <guid isPermaLink="false">http://ceukelai.re/a-tale-of-two-offline-chrome-uxss-vulns/</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: MS15-116 – Parse the [point]er of no return.</title>
-      <link>http://sourceincite.com/2015/11/16/ms15-116-parse-the-pointer-of-no-return/</link>
-      <description><![CDATA[Description: MS15-116 – Parse the [point]er of no return.<br />
-URL: <a href='http://sourceincite.com/2015/11/16/ms15-116-parse-the-pointer-of-no-return/'>http://sourceincite.com/2015/11/16/ms15-116-parse-the-pointer-of-no-return/</a><br />
-PoC: <a href='https://goo.gl/NXGXWU'>https://goo.gl/NXGXWU</a>]]></description>
-      <guid isPermaLink="false">http://sourceincite.com/2015/11/16/ms15-116-parse-the-pointer-of-no-return/</guid>
+      <title>Security: Nobody expects ENTITY sections in XML (XXE Saga).</title>
+      <link>http://mikeknoop.com/lxml-xxe-exploit/</link>
+      <description><![CDATA[Description: Nobody expects ENTITY sections in XML (XXE Saga).<br />
+URL: <a href='http://mikeknoop.com/lxml-xxe-exploit/'>http://mikeknoop.com/lxml-xxe-exploit/</a>]]></description>
+      <guid isPermaLink="false">http://mikeknoop.com/lxml-xxe-exploit/</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: Lifetimes of cryptographic hash functions.</title>
-      <link>http://valerieaurora.org/hash.html</link>
-      <description><![CDATA[Description: Lifetimes of cryptographic hash functions.<br />
-URL: <a href='http://valerieaurora.org/hash.html'>http://valerieaurora.org/hash.html</a>]]></description>
-      <guid isPermaLink="false">http://valerieaurora.org/hash.html</guid>
+      <title>Security: Windows x64 Shellcode.</title>
+      <link>https://www.tophertimzen.com/blog/windowsx64Shellcode/</link>
+      <description><![CDATA[Description: Windows x64 Shellcode.<br />
+URL: <a href='https://www.tophertimzen.com/blog/windowsx64Shellcode/'>https://www.tophertimzen.com/blog/windowsx64Shellcode/</a>]]></description>
+      <guid isPermaLink="false">https://www.tophertimzen.com/blog/windowsx64Shellcode/</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: Practical example of HOST header injection.</title>
-      <link>http://zerodayguys.blogspot.com.tr/2015/10/practical-example-of-host-header.html</link>
-      <description><![CDATA[Description: Practical example of HOST header injection.<br />
-URL: <a href='http://zerodayguys.blogspot.com.tr/2015/10/practical-example-of-host-header.html'>http://zerodayguys.blogspot.com.tr/2015/10/practical-example-of-host-header.html</a>]]></description>
-      <guid isPermaLink="false">http://zerodayguys.blogspot.com.tr/2015/10/practical-example-of-host-header.html</guid>
+      <title>Security: Hacking banks for fun and profit.</title>
+      <link>https://ret2libc.wordpress.com/2016/01/03/hacking-banks-for-fun-and-profit/</link>
+      <description><![CDATA[Description: Hacking banks for fun and profit.<br />
+URL: <a href='https://ret2libc.wordpress.com/2016/01/03/hacking-banks-for-fun-and-profit/'>https://ret2libc.wordpress.com/2016/01/03/hacking-banks-for-fun-and-profit/</a>]]></description>
+      <guid isPermaLink="false">https://ret2libc.wordpress.com/2016/01/03/hacking-banks-for-fun-and-profit/</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: Course materials for Malware Analysis by RPISEC.</title>
-      <link>https://github.com/RPISEC/Malware</link>
-      <description><![CDATA[Description: Course materials for Malware Analysis by RPISEC.<br />
-URL: <a href='https://github.com/RPISEC/Malware'>https://github.com/RPISEC/Malware</a>]]></description>
-      <guid isPermaLink="false">https://github.com/RPISEC/Malware</guid>
+      <title>Security: How to get user crendentials from memory dumps.</title>
+      <link>https://goo.gl/azjtvB</link>
+      <description><![CDATA[Description: How to get user crendentials from memory dumps.<br />
+URL: <a href='https://goo.gl/azjtvB'>https://goo.gl/azjtvB</a><br />
+bit.ly inspect: <a href='https://goo.gl/azjtvB+'>https://goo.gl/azjtvB+</a>]]></description>
+      <guid isPermaLink="false">https://goo.gl/azjtvB</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: Creative bug which result Stored XSS on m.youtube.com (Why not!).</title>
-      <link>http://sasi2103.blogspot.co.il/2015/12/creative-bug-which-result-stored-xss-on.html</link>
-      <description><![CDATA[Description: Creative bug which result Stored XSS on m.youtube.com (Why not!).<br />
-URL: <a href='http://sasi2103.blogspot.co.il/2015/12/creative-bug-which-result-stored-xss-on.html'>http://sasi2103.blogspot.co.il/2015/12/creative-bug-which-result-stored-xss-on.html</a>]]></description>
-      <guid isPermaLink="false">http://sasi2103.blogspot.co.il/2015/12/creative-bug-which-result-stored-xss-on.html</guid>
+      <title>Security: Defending Against Mimikatz.</title>
+      <link>https://jimshaver.net/2016/02/14/defending-against-mimikatz/</link>
+      <description><![CDATA[Description: Defending Against Mimikatz.<br />
+URL: <a href='https://jimshaver.net/2016/02/14/defending-against-mimikatz/'>https://jimshaver.net/2016/02/14/defending-against-mimikatz/</a>]]></description>
+      <guid isPermaLink="false">https://jimshaver.net/2016/02/14/defending-against-mimikatz/</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: How is a Time-based UUID/GUID made.</title>
-      <link>https://www.famkruithof.net/guid-uuid-timebased.html</link>
-      <description><![CDATA[Description: How is a Time-based UUID/GUID made.<br />
-URL: <a href='https://www.famkruithof.net/guid-uuid-timebased.html'>https://www.famkruithof.net/guid-uuid-timebased.html</a>]]></description>
-      <guid isPermaLink="false">https://www.famkruithof.net/guid-uuid-timebased.html</guid>
+      <title>Security: Cracking PHP rand().</title>
+      <link>http://www.sjoerdlangkemper.nl/2016/02/11/cracking-php-rand/</link>
+      <description><![CDATA[Description: Cracking PHP rand().<br />
+URL: <a href='http://www.sjoerdlangkemper.nl/2016/02/11/cracking-php-rand/'>http://www.sjoerdlangkemper.nl/2016/02/11/cracking-php-rand/</a>]]></description>
+      <guid isPermaLink="false">http://www.sjoerdlangkemper.nl/2016/02/11/cracking-php-rand/</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Fun: xchg rax,rax.</title>
-      <link>http://www.xorpd.net/pages/xchg_rax/snip_00.html</link>
-      <description><![CDATA[Description: xchg rax,rax.<br />
-URL: <a href='http://www.xorpd.net/pages/xchg_rax/snip_00.html'>http://www.xorpd.net/pages/xchg_rax/snip_00.html</a>]]></description>
-      <guid isPermaLink="false">http://www.xorpd.net/pages/xchg_rax/snip_00.html</guid>
+      <title>Fun: This is what happens when you reply to spam email.</title>
+      <link>https://www.youtube.com/watch?v=_QdPW8JrYzQ</link>
+      <description><![CDATA[Description: This is what happens when you reply to spam email.<br />
+URL: <a href='https://www.youtube.com/watch?v=_QdPW8JrYzQ'>https://www.youtube.com/watch?v=_QdPW8JrYzQ</a>]]></description>
+      <guid isPermaLink="false">https://www.youtube.com/watch?v=_QdPW8JrYzQ</guid>
       <category>Fun</category>
     </item>
     <item>
-      <title>Fun: Pseudo-3D shooter written completely in awk using raycasting technique.</title>
-      <link>https://github.com/TheMozg/awk-raycaster</link>
-      <description><![CDATA[Description: Pseudo-3D shooter written completely in awk using raycasting technique.<br />
-URL: <a href='https://github.com/TheMozg/awk-raycaster'>https://github.com/TheMozg/awk-raycaster</a>]]></description>
-      <guid isPermaLink="false">https://github.com/TheMozg/awk-raycaster</guid>
+      <title>Fun: CLI for Facebook.</title>
+      <link>https://github.com/huydx/facy</link>
+      <description><![CDATA[Description: CLI for Facebook.<br />
+URL: <a href='https://github.com/huydx/facy'>https://github.com/huydx/facy</a>]]></description>
+      <guid isPermaLink="false">https://github.com/huydx/facy</guid>
       <category>Fun</category>
     </item>
     <item>
-      <title>Fun: Use your OS X terminal shell to do awesome things.</title>
-      <link>https://github.com/herrbischoff/awesome-osx-command-line</link>
-      <description><![CDATA[Description: Use your OS X terminal shell to do awesome things.<br />
-URL: <a href='https://github.com/herrbischoff/awesome-osx-command-line'>https://github.com/herrbischoff/awesome-osx-command-line</a>]]></description>
-      <guid isPermaLink="false">https://github.com/herrbischoff/awesome-osx-command-line</guid>
+      <title>Fun: The world's most simple monitoring service.</title>
+      <link>https://ping.gg/</link>
+      <description><![CDATA[Description: The world's most simple monitoring service.<br />
+URL: <a href='https://ping.gg/'>https://ping.gg/</a>]]></description>
+      <guid isPermaLink="false">https://ping.gg/</guid>
       <category>Fun</category>
     </item>
   </channel>
