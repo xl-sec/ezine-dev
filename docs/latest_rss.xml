@@ -7,209 +7,216 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Aug 2023 11:17:29 +0000</lastBuildDate>
-    <pubDate>Tue, 01 Aug 2023 11:17:29 +0000</pubDate>
+    <lastBuildDate>Tue, 01 Aug 2023 11:24:30 +0000</lastBuildDate>
+    <pubDate>Tue, 01 Aug 2023 11:24:30 +0000</pubDate>
     <item>
-      <title>Must see: The road to hell is paved with SAML Assertions.</title>
-      <link>http://www.economyofmechanism.com/office365-authbypass.html</link>
-      <description><![CDATA[Description: The road to hell is paved with SAML Assertions.<br />
-URL: <a href='http://www.economyofmechanism.com/office365-authbypass.html'>http://www.economyofmechanism.com/office365-authbypass.html</a>]]></description>
-      <guid isPermaLink="false">http://www.economyofmechanism.com/office365-authbypass.html</guid>
+      <title>Must see: OneDrive - an easter egg into MS library - XSS on Microsoft and not only.</title>
+      <link>https://luc10.github.io/onedrive-an-easter-egg-into-ms-library/</link>
+      <description><![CDATA[Description: OneDrive - an easter egg into MS library - XSS on Microsoft and not only.<br />
+URL: <a href='https://luc10.github.io/onedrive-an-easter-egg-into-ms-library/'>https://luc10.github.io/onedrive-an-easter-egg-into-ms-library/</a>]]></description>
+      <guid isPermaLink="false">https://luc10.github.io/onedrive-an-easter-egg-into-ms-library/</guid>
       <category>Must see</category>
     </item>
     <item>
-      <title>Must see: Bypassing Chromes XSS Auditor.</title>
-      <link>https://goo.gl/z9ALvx</link>
-      <description><![CDATA[Description: Bypassing Chromes XSS Auditor.<br />
-URL: <a href='https://goo.gl/z9ALvx'>https://goo.gl/z9ALvx</a><br />
-bit.ly inspect: <a href='https://goo.gl/z9ALvx+'>https://goo.gl/z9ALvx+</a>]]></description>
-      <guid isPermaLink="false">https://goo.gl/z9ALvx</guid>
+      <title>Must see: XSS-es in Google Caja.</title>
+      <link>http://blog.bentkowski.info/2016/07/xss-es-in-google-caja.html</link>
+      <description><![CDATA[Description: XSS-es in Google Caja.<br />
+URL: <a href='http://blog.bentkowski.info/2016/07/xss-es-in-google-caja.html'>http://blog.bentkowski.info/2016/07/xss-es-in-google-caja.html</a>]]></description>
+      <guid isPermaLink="false">http://blog.bentkowski.info/2016/07/xss-es-in-google-caja.html</guid>
       <category>Must see</category>
     </item>
     <item>
-      <title>Hack: VBA Obfuscation Tools combined with an MS office document generator.</title>
-      <link>https://github.com/Pepitoh/VBad</link>
-      <description><![CDATA[Description: VBA Obfuscation Tools combined with an MS office document generator.<br />
-URL: <a href='https://github.com/Pepitoh/VBad'>https://github.com/Pepitoh/VBad</a>]]></description>
-      <guid isPermaLink="false">https://github.com/Pepitoh/VBad</guid>
+      <title>Must see: Stored XSS in developer.uber(dot)com.</title>
+      <link>https://hackerone.com/reports/131450</link>
+      <description><![CDATA[Description: Stored XSS in developer.uber(dot)com.<br />
+URL: <a href='https://hackerone.com/reports/131450'>https://hackerone.com/reports/131450</a>]]></description>
+      <guid isPermaLink="false">https://hackerone.com/reports/131450</guid>
+      <category>Must see</category>
+    </item>
+    <item>
+      <title>Hack: The XSS Hunter service - a portable version of XSSHunter.com.</title>
+      <link>https://github.com/mandatoryprogrammer/xsshunter</link>
+      <description><![CDATA[Description: The XSS Hunter service - a portable version of XSSHunter.com.<br />
+URL: <a href='https://github.com/mandatoryprogrammer/xsshunter'>https://github.com/mandatoryprogrammer/xsshunter</a>]]></description>
+      <guid isPermaLink="false">https://github.com/mandatoryprogrammer/xsshunter</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: Web App for Volatility framework.</title>
-      <link>https://github.com/kevthehermit/VolUtility</link>
-      <description><![CDATA[Description: Web App for Volatility framework.<br />
-URL: <a href='https://github.com/kevthehermit/VolUtility'>https://github.com/kevthehermit/VolUtility</a>]]></description>
-      <guid isPermaLink="false">https://github.com/kevthehermit/VolUtility</guid>
+      <title>Hack: Automatic detection of hashing algorithms.</title>
+      <link>https://alexaltea.github.io/hasher/</link>
+      <description><![CDATA[Description: Automatic detection of hashing algorithms.<br />
+URL: <a href='https://alexaltea.github.io/hasher/'>https://alexaltea.github.io/hasher/</a>]]></description>
+      <guid isPermaLink="false">https://alexaltea.github.io/hasher/</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: Didier Stevens Suite (Software Dump).</title>
-      <link>https://github.com/DidierStevens/DidierStevensSuite</link>
-      <description><![CDATA[Description: Didier Stevens Suite (Software Dump).<br />
-URL: <a href='https://github.com/DidierStevens/DidierStevensSuite'>https://github.com/DidierStevens/DidierStevensSuite</a>]]></description>
-      <guid isPermaLink="false">https://github.com/DidierStevens/DidierStevensSuite</guid>
+      <title>Hack: Using SSH without a TTY.</title>
+      <link>http://pentestmonkey.net/blog/ssh-with-no-tty</link>
+      <description><![CDATA[Description: Using SSH without a TTY.<br />
+URL: <a href='http://pentestmonkey.net/blog/ssh-with-no-tty'>http://pentestmonkey.net/blog/ssh-with-no-tty</a>]]></description>
+      <guid isPermaLink="false">http://pentestmonkey.net/blog/ssh-with-no-tty</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: Automated crash sample processing, afl-fuzz job management and more.</title>
-      <link>https://github.com/rc0r/afl-utils</link>
-      <description><![CDATA[Description: Automated crash sample processing, afl-fuzz job management and more.<br />
-URL: <a href='https://github.com/rc0r/afl-utils'>https://github.com/rc0r/afl-utils</a>]]></description>
-      <guid isPermaLink="false">https://github.com/rc0r/afl-utils</guid>
+      <title>Hack: Evilgrade (Oldies).</title>
+      <link>https://github.com/infobyte/evilgrade</link>
+      <description><![CDATA[Description: Evilgrade (Oldies).<br />
+URL: <a href='https://github.com/infobyte/evilgrade'>https://github.com/infobyte/evilgrade</a>]]></description>
+      <guid isPermaLink="false">https://github.com/infobyte/evilgrade</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: Just a tool to decode obfuscated shellcodes using the unicorn engine.</title>
-      <link>https://github.com/DeveloppSoft/Eli.Decode</link>
-      <description><![CDATA[Description: Just a tool to decode obfuscated shellcodes using the unicorn engine.<br />
-URL: <a href='https://github.com/DeveloppSoft/Eli.Decode'>https://github.com/DeveloppSoft/Eli.Decode</a>]]></description>
-      <guid isPermaLink="false">https://github.com/DeveloppSoft/Eli.Decode</guid>
+      <title>Hack: SpiderFoot - Open source footprinting and intelligence-gathering tool.</title>
+      <link>https://github.com/smicallef/spiderfoot</link>
+      <description><![CDATA[Description: SpiderFoot - Open source footprinting and intelligence-gathering tool.<br />
+URL: <a href='https://github.com/smicallef/spiderfoot'>https://github.com/smicallef/spiderfoot</a>]]></description>
+      <guid isPermaLink="false">https://github.com/smicallef/spiderfoot</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: Dynamic Tracing Tools for Linux.</title>
-      <link>https://iovisor.github.io/bcc/</link>
-      <description><![CDATA[Description: Dynamic Tracing Tools for Linux.<br />
-URL: <a href='https://iovisor.github.io/bcc/'>https://iovisor.github.io/bcc/</a>]]></description>
-      <guid isPermaLink="false">https://iovisor.github.io/bcc/</guid>
+      <title>Hack: Shellcode - Execute command for x32/x64 Linux/Windows/BSD.</title>
+      <link>https://modexp.wordpress.com/2016/06/04/winux/</link>
+      <description><![CDATA[Description: Shellcode - Execute command for x32/x64 Linux/Windows/BSD.<br />
+URL: <a href='https://modexp.wordpress.com/2016/06/04/winux/'>https://modexp.wordpress.com/2016/06/04/winux/</a>]]></description>
+      <guid isPermaLink="false">https://modexp.wordpress.com/2016/06/04/winux/</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: Payload generator that uses Metasploit and Veil.</title>
-      <link>https://github.com/lorentzenman/payday</link>
-      <description><![CDATA[Description: Payload generator that uses Metasploit and Veil.<br />
-URL: <a href='https://github.com/lorentzenman/payday'>https://github.com/lorentzenman/payday</a>]]></description>
-      <guid isPermaLink="false">https://github.com/lorentzenman/payday</guid>
+      <title>Hack: MS Office Component FSupportSAEXTChar() - Use-After-Free RCE (CVE-2016-0140).</title>
+      <link>http://srcincite.io/advisories/src-2016-22/</link>
+      <description><![CDATA[Description: MS Office Component FSupportSAEXTChar() - Use-After-Free RCE (CVE-2016-0140).<br />
+URL: <a href='http://srcincite.io/advisories/src-2016-22/'>http://srcincite.io/advisories/src-2016-22/</a>]]></description>
+      <guid isPermaLink="false">http://srcincite.io/advisories/src-2016-22/</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: Pazuzu - reflective DLL to run binaries from memory.</title>
-      <link>http://www.shelliscoming.com/2016/04/pazuzu-reflective-dll-to-run-binaries.html</link>
-      <description><![CDATA[Description: Pazuzu - reflective DLL to run binaries from memory.<br />
-URL: <a href='http://www.shelliscoming.com/2016/04/pazuzu-reflective-dll-to-run-binaries.html'>http://www.shelliscoming.com/2016/04/pazuzu-reflective-dll-to-run-binaries.html</a>]]></description>
-      <guid isPermaLink="false">http://www.shelliscoming.com/2016/04/pazuzu-reflective-dll-to-run-binaries.html</guid>
+      <title>Hack: Embedding reverse shell in .lnk file or Old horse attacks.</title>
+      <link>http://onready.me/old_horse_attacks.html</link>
+      <description><![CDATA[Description: Embedding reverse shell in .lnk file or Old horse attacks.<br />
+URL: <a href='http://onready.me/old_horse_attacks.html'>http://onready.me/old_horse_attacks.html</a>]]></description>
+      <guid isPermaLink="false">http://onready.me/old_horse_attacks.html</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: MS16-032 implemented in PowerShell.</title>
-      <link>https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Invoke-MS16-032.ps1</link>
-      <description><![CDATA[Description: MS16-032 implemented in PowerShell.<br />
-URL: <a href='https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Invoke-MS16-032.ps1'>https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Invoke-MS16-032.ps1</a><br />
-MSF Module: <a href='https://github.com/khr0x40sh/metasploit'>https://github.com/khr0x40sh/metasploit</a>]]></description>
-      <guid isPermaLink="false">https://github.com/FuzzySecurity/PowerShell-Suite/blob/master/Invoke-MS16-032.ps1</guid>
+      <title>Hack: Tool that helps you find and identify php/cgi(perl)/asp/aspx shells.</title>
+      <link>https://github.com/emposha/Shell-Detector</link>
+      <description><![CDATA[Description: Tool that helps you find and identify php/cgi(perl)/asp/aspx shells.<br />
+URL: <a href='https://github.com/emposha/Shell-Detector'>https://github.com/emposha/Shell-Detector</a>]]></description>
+      <guid isPermaLink="false">https://github.com/emposha/Shell-Detector</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: Mach Race OS X Local Privilege Escalation Exploit (CVE-2016-1757).</title>
-      <link>https://github.com/gdbinit/mach_race</link>
-      <description><![CDATA[Description: Mach Race OS X Local Privilege Escalation Exploit (CVE-2016-1757).<br />
-URL: <a href='https://github.com/gdbinit/mach_race'>https://github.com/gdbinit/mach_race</a>]]></description>
-      <guid isPermaLink="false">https://github.com/gdbinit/mach_race</guid>
+      <title>Hack: Credential stealing proxy function for Get-Credential.</title>
+      <link>https://gist.github.com/mattifestation/97ceccd93133c7a1d39a1661922fe545</link>
+      <description><![CDATA[Description: Credential stealing proxy function for Get-Credential.<br />
+URL: <a href='https://gist.github.com/mattifestation/97ceccd93133c7a1d39a1661922fe545'>https://gist.github.com/mattifestation/97ceccd93133c7a1d39a1661922fe545</a>]]></description>
+      <guid isPermaLink="false">https://gist.github.com/mattifestation/97ceccd93133c7a1d39a1661922fe545</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Security: Fixing XSS on the Mozilla Add-Ons website.</title>
-      <link>http://neonprimetime.blogspot.pt/2016/03/fixing-xss.html</link>
-      <description><![CDATA[Description: Fixing XSS on the Mozilla Add-Ons website.<br />
-URL: <a href='http://neonprimetime.blogspot.pt/2016/03/fixing-xss.html'>http://neonprimetime.blogspot.pt/2016/03/fixing-xss.html</a>]]></description>
-      <guid isPermaLink="false">http://neonprimetime.blogspot.pt/2016/03/fixing-xss.html</guid>
+      <title>Security: Wget Arbitrary Commands Execution.</title>
+      <link>https://blogs.securiteam.com/index.php/archives/2701</link>
+      <description><![CDATA[Description: Wget Arbitrary Commands Execution.<br />
+URL: <a href='https://blogs.securiteam.com/index.php/archives/2701'>https://blogs.securiteam.com/index.php/archives/2701</a>]]></description>
+      <guid isPermaLink="false">https://blogs.securiteam.com/index.php/archives/2701</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: Fun with Remote Controllers (CVE-2016-2345).</title>
-      <link>https://goo.gl/E6k81e</link>
-      <description><![CDATA[Description: Fun with Remote Controllers (CVE-2016-2345).<br />
-URL: <a href='https://goo.gl/E6k81e'>https://goo.gl/E6k81e</a><br />
-bit.ly inspect: <a href='https://goo.gl/E6k81e+'>https://goo.gl/E6k81e+</a>]]></description>
-      <guid isPermaLink="false">https://goo.gl/E6k81e</guid>
+      <title>Security: Server-Side Request Forgery Takes Advantage of Vulnerable App Servers.</title>
+      <link>https://goo.gl/5iX4at</link>
+      <description><![CDATA[Description: Server-Side Request Forgery Takes Advantage of Vulnerable App Servers.<br />
+URL: <a href='https://goo.gl/5iX4at'>https://goo.gl/5iX4at</a><br />
+bit.ly inspect: <a href='https://goo.gl/5iX4at+'>https://goo.gl/5iX4at+</a>]]></description>
+      <guid isPermaLink="false">https://goo.gl/5iX4at</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: MS Office exploit analysis - CVE-2015-1641.</title>
-      <link>http://www.sekoia.fr/blog/ms-office-exploit-analysis-cve-2015-1641/</link>
-      <description><![CDATA[Description: MS Office exploit analysis - CVE-2015-1641.<br />
-URL: <a href='http://www.sekoia.fr/blog/ms-office-exploit-analysis-cve-2015-1641/'>http://www.sekoia.fr/blog/ms-office-exploit-analysis-cve-2015-1641/</a>]]></description>
-      <guid isPermaLink="false">http://www.sekoia.fr/blog/ms-office-exploit-analysis-cve-2015-1641/</guid>
+      <title>Security: "Auto-Download" feature on MS Edge and Google Chrome (DLL-Preload).</title>
+      <link>http://justhaifei1.blogspot.pt/2015/10/watch-your-downloads-risk-of-auto.html</link>
+      <description><![CDATA[Description: "Auto-Download" feature on MS Edge and Google Chrome (DLL-Preload).<br />
+URL: <a href='http://justhaifei1.blogspot.pt/2015/10/watch-your-downloads-risk-of-auto.html'>http://justhaifei1.blogspot.pt/2015/10/watch-your-downloads-risk-of-auto.html</a>]]></description>
+      <guid isPermaLink="false">http://justhaifei1.blogspot.pt/2015/10/watch-your-downloads-risk-of-auto.html</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: Back To The Future - Unix Wildcards Gone Wild.</title>
-      <link>https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt</link>
-      <description><![CDATA[Description: Back To The Future - Unix Wildcards Gone Wild.<br />
-URL: <a href='https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt'>https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt</a>]]></description>
-      <guid isPermaLink="false">https://www.defensecode.com/public/DefenseCode_Unix_WildCards_Gone_Wild.txt</guid>
+      <title>Security: Practical use of JS and COM Scriptlets for Penetration Testing.</title>
+      <link>http://goo.gl/hrhPSo</link>
+      <description><![CDATA[Description: Practical use of JS and COM Scriptlets for Penetration Testing.<br />
+URL: <a href='http://goo.gl/hrhPSo'>http://goo.gl/hrhPSo</a><br />
+bit.ly inspect: <a href='http://goo.gl/hrhPSo+'>http://goo.gl/hrhPSo+</a>]]></description>
+      <guid isPermaLink="false">http://goo.gl/hrhPSo</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: Credentials Manager – Zip Passwords Caching [Win8.x/10].</title>
-      <link>http://www.anti-reversing.com/credentials-manager-zip-passwords-caching-win8-x10/</link>
-      <description><![CDATA[Description: Credentials Manager – Zip Passwords Caching [Win8.x/10].<br />
-URL: <a href='http://www.anti-reversing.com/credentials-manager-zip-passwords-caching-win8-x10/'>http://www.anti-reversing.com/credentials-manager-zip-passwords-caching-win8-x10/</a>]]></description>
-      <guid isPermaLink="false">http://www.anti-reversing.com/credentials-manager-zip-passwords-caching-win8-x10/</guid>
+      <title>Security: Android Kernel Security Reference.</title>
+      <link>https://github.com/ukanth/afwall/wiki/Kernel-security</link>
+      <description><![CDATA[Description: Android Kernel Security Reference.<br />
+URL: <a href='https://github.com/ukanth/afwall/wiki/Kernel-security'>https://github.com/ukanth/afwall/wiki/Kernel-security</a>]]></description>
+      <guid isPermaLink="false">https://github.com/ukanth/afwall/wiki/Kernel-security</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: Create a Python Malware with PyInstaller.</title>
-      <link>http://www.primalsecurity.net/0xc-python-tutorial-python-malware/</link>
-      <description><![CDATA[Description: Create a Python Malware with PyInstaller.<br />
-URL: <a href='http://www.primalsecurity.net/0xc-python-tutorial-python-malware/'>http://www.primalsecurity.net/0xc-python-tutorial-python-malware/</a>]]></description>
-      <guid isPermaLink="false">http://www.primalsecurity.net/0xc-python-tutorial-python-malware/</guid>
+      <title>Security: MSSQL Union Based Injection Step By Step (101).</title>
+      <link>http://infoseczone.net/mssql-union-based-injection-step-step/</link>
+      <description><![CDATA[Description: MSSQL Union Based Injection Step By Step (101).<br />
+URL: <a href='http://infoseczone.net/mssql-union-based-injection-step-step/'>http://infoseczone.net/mssql-union-based-injection-step-step/</a>]]></description>
+      <guid isPermaLink="false">http://infoseczone.net/mssql-union-based-injection-step-step/</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: Jailbreaking the Microsoft fitness band.</title>
-      <link>http://www.b0n0n.com/2016/04/20/ms-jailbreak/</link>
-      <description><![CDATA[Description: Jailbreaking the Microsoft fitness band.<br />
-URL: <a href='http://www.b0n0n.com/2016/04/20/ms-jailbreak/'>http://www.b0n0n.com/2016/04/20/ms-jailbreak/</a>]]></description>
-      <guid isPermaLink="false">http://www.b0n0n.com/2016/04/20/ms-jailbreak/</guid>
+      <title>Security: Detecting Hidden Backdoors in PHP OPcache.</title>
+      <link>http://blog.gosecure.ca/2016/05/26/detecting-hidden-backdoors-in-php-opcache/</link>
+      <description><![CDATA[Description: Detecting Hidden Backdoors in PHP OPcache.<br />
+URL: <a href='http://blog.gosecure.ca/2016/05/26/detecting-hidden-backdoors-in-php-opcache/'>http://blog.gosecure.ca/2016/05/26/detecting-hidden-backdoors-in-php-opcache/</a>]]></description>
+      <guid isPermaLink="false">http://blog.gosecure.ca/2016/05/26/detecting-hidden-backdoors-in-php-opcache/</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: Exploiting 'Export as CSV' functionality - The road to CSV Injections.</title>
-      <link>http://www.tothenew.com/blog/csv-injection/</link>
-      <description><![CDATA[Description: Exploiting 'Export as CSV' functionality - The road to CSV Injections.<br />
-URL: <a href='http://www.tothenew.com/blog/csv-injection/'>http://www.tothenew.com/blog/csv-injection/</a>]]></description>
-      <guid isPermaLink="false">http://www.tothenew.com/blog/csv-injection/</guid>
+      <title>Security: Discovering Subdomains.</title>
+      <link>https://blog.bugcrowd.com/discovering-subdomains</link>
+      <description><![CDATA[Description: Discovering Subdomains.<br />
+URL: <a href='https://blog.bugcrowd.com/discovering-subdomains'>https://blog.bugcrowd.com/discovering-subdomains</a>]]></description>
+      <guid isPermaLink="false">https://blog.bugcrowd.com/discovering-subdomains</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: Hiding Data Inside Memory Addresses.</title>
-      <link>https://osandamalith.wordpress.com/2016/01/02/hiding-data-inside-memory-addresses/</link>
-      <description><![CDATA[Description: Hiding Data Inside Memory Addresses.<br />
-URL: <a href='https://osandamalith.wordpress.com/2016/01/02/hiding-data-inside-memory-addresses/'>https://osandamalith.wordpress.com/2016/01/02/hiding-data-inside-memory-addresses/</a>]]></description>
-      <guid isPermaLink="false">https://osandamalith.wordpress.com/2016/01/02/hiding-data-inside-memory-addresses/</guid>
+      <title>Security: Process Hollowing.</title>
+      <link>http://marcoramilli.blogspot.pt/2016/05/process-hollowing.html</link>
+      <description><![CDATA[Description: Process Hollowing.<br />
+URL: <a href='http://marcoramilli.blogspot.pt/2016/05/process-hollowing.html'>http://marcoramilli.blogspot.pt/2016/05/process-hollowing.html</a>]]></description>
+      <guid isPermaLink="false">http://marcoramilli.blogspot.pt/2016/05/process-hollowing.html</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: Memory Corruption Vulnerability in "libotr".</title>
-      <link>https://www.x41-dsec.de/lab/advisories/x41-2016-001-libotr/</link>
-      <description><![CDATA[Description: Memory Corruption Vulnerability in "libotr".<br />
-URL: <a href='https://www.x41-dsec.de/lab/advisories/x41-2016-001-libotr/'>https://www.x41-dsec.de/lab/advisories/x41-2016-001-libotr/</a>]]></description>
-      <guid isPermaLink="false">https://www.x41-dsec.de/lab/advisories/x41-2016-001-libotr/</guid>
+      <title>Security: Cookies vs Tokens - The Definitive Guide.</title>
+      <link>https://auth0.com/blog/2016/05/31/cookies-vs-tokens-definitive-guide</link>
+      <description><![CDATA[Description: Cookies vs Tokens - The Definitive Guide.<br />
+URL: <a href='https://auth0.com/blog/2016/05/31/cookies-vs-tokens-definitive-guide'>https://auth0.com/blog/2016/05/31/cookies-vs-tokens-definitive-guide</a>]]></description>
+      <guid isPermaLink="false">https://auth0.com/blog/2016/05/31/cookies-vs-tokens-definitive-guide</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Fun: CIH (Chernobyl) Oldies!</title>
-      <link>https://github.com/onx/CIH</link>
-      <description><![CDATA[Description: CIH (Chernobyl) Oldies!<br />
-URL: <a href='https://github.com/onx/CIH'>https://github.com/onx/CIH</a>]]></description>
-      <guid isPermaLink="false">https://github.com/onx/CIH</guid>
+      <title>Fun: Securing a travel iPhone.</title>
+      <link>https://blog.filippo.io/securing-a-travel-iphone/</link>
+      <description><![CDATA[Description: Securing a travel iPhone.<br />
+URL: <a href='https://blog.filippo.io/securing-a-travel-iphone/'>https://blog.filippo.io/securing-a-travel-iphone/</a>]]></description>
+      <guid isPermaLink="false">https://blog.filippo.io/securing-a-travel-iphone/</guid>
       <category>Fun</category>
     </item>
     <item>
-      <title>Fun: Browse Hacker News like a Haxor.</title>
-      <link>https://github.com/donnemartin/haxor-news</link>
-      <description><![CDATA[Description: Browse Hacker News like a Haxor.<br />
-URL: <a href='https://github.com/donnemartin/haxor-news'>https://github.com/donnemartin/haxor-news</a>]]></description>
-      <guid isPermaLink="false">https://github.com/donnemartin/haxor-news</guid>
+      <title>Fun: MS-DOS Source Code 1.X and 2.0.</title>
+      <link>https://github.com/BlastarIndia/msdos/tree/master/v11source</link>
+      <description><![CDATA[Description: MS-DOS Source Code 1.X and 2.0.<br />
+URL: <a href='https://github.com/BlastarIndia/msdos/tree/master/v11source'>https://github.com/BlastarIndia/msdos/tree/master/v11source</a>]]></description>
+      <guid isPermaLink="false">https://github.com/BlastarIndia/msdos/tree/master/v11source</guid>
       <category>Fun</category>
     </item>
     <item>
-      <title>Fun: Anatomy of a cheap USB to Ethernet adapter.</title>
-      <link>https://projectgus.com/2013/03/anatomy-of-a-cheap-usb-ethernet-adapter/</link>
-      <description><![CDATA[Description: Anatomy of a cheap USB to Ethernet adapter.<br />
-URL: <a href='https://projectgus.com/2013/03/anatomy-of-a-cheap-usb-ethernet-adapter/'>https://projectgus.com/2013/03/anatomy-of-a-cheap-usb-ethernet-adapter/</a>]]></description>
-      <guid isPermaLink="false">https://projectgus.com/2013/03/anatomy-of-a-cheap-usb-ethernet-adapter/</guid>
+      <title>Fun: A P2P/E2E encrypted and discoverable chat App on top of nanomsg lib.</title>
+      <link>https://github.com/hamidreza-s/NanoChat</link>
+      <description><![CDATA[Description: A P2P/E2E encrypted and discoverable chat App on top of nanomsg lib.<br />
+URL: <a href='https://github.com/hamidreza-s/NanoChat'>https://github.com/hamidreza-s/NanoChat</a>]]></description>
+      <guid isPermaLink="false">https://github.com/hamidreza-s/NanoChat</guid>
       <category>Fun</category>
     </item>
   </channel>
