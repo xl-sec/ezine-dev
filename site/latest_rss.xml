@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AppSec Ezine #110</title>
+    <link>http://pathonproject.com/zb/?30ec1e79a41c4366#RVbFQiFhKDBdLSyVtT2Odnv9BbEty2glBXM2QBMjnaU=</link>
+    <description>AppSec Ezine #110</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 30 Jul 2023 15:47:55 +0000</lastBuildDate>
+    <pubDate>Sun, 30 Jul 2023 15:47:55 +0000</pubDate>
+    <item>
+      <title>Must see: Exploring Server-Side Template Injection (SSTI) in Flask/Jinja2.</title>
+      <link>https://nvisium.com/blog/2016/03/09/exploring-ssti-in-flask-jinja2/</link>
+      <description><![CDATA[Description: Exploring Server-Side Template Injection (SSTI) in Flask/Jinja2.<br />
+URL: <a href='https://nvisium.com/blog/2016/03/09/exploring-ssti-in-flask-jinja2/'>https://nvisium.com/blog/2016/03/09/exploring-ssti-in-flask-jinja2/</a><br />
+PoC: <a href='https://hackerone.com/reports/125980'>https://hackerone.com/reports/125980</a>]]></description>
+      <guid isPermaLink="false">https://nvisium.com/blog/2016/03/09/exploring-ssti-in-flask-jinja2/</guid>
+      <category>Must see</category>
+    </item>
+    <item>
+      <title>Must see: The misunderstood X-XSS-Protection.</title>
+      <link>http://blog.innerht.ml/the-misunderstood-x-xss-protection/</link>
+      <description><![CDATA[Description: The misunderstood X-XSS-Protection.<br />
+URL: <a href='http://blog.innerht.ml/the-misunderstood-x-xss-protection/'>http://blog.innerht.ml/the-misunderstood-x-xss-protection/</a>]]></description>
+      <guid isPermaLink="false">http://blog.innerht.ml/the-misunderstood-x-xss-protection/</guid>
+      <category>Must see</category>
+    </item>
+    <item>
+      <title>Must see: Uber Bug Bounty - Turning Self-XSS into Good-XSS.</title>
+      <link>https://fin1te.net/articles/uber-turning-self-xss-into-good-xss/</link>
+      <description><![CDATA[Description: Uber Bug Bounty - Turning Self-XSS into Good-XSS.<br />
+URL: <a href='https://fin1te.net/articles/uber-turning-self-xss-into-good-xss/'>https://fin1te.net/articles/uber-turning-self-xss-into-good-xss/</a>]]></description>
+      <guid isPermaLink="false">https://fin1te.net/articles/uber-turning-self-xss-into-good-xss/</guid>
+      <category>Must see</category>
+    </item>
+    <item>
+      <title>Hack: How to backdoor Diffie-Hellman.</title>
+      <link>https://github.com/mimoo/Diffie-Hellman_Backdoor</link>
+      <description><![CDATA[Description: How to backdoor Diffie-Hellman.<br />
+URL: <a href='https://github.com/mimoo/Diffie-Hellman_Backdoor'>https://github.com/mimoo/Diffie-Hellman_Backdoor</a>]]></description>
+      <guid isPermaLink="false">https://github.com/mimoo/Diffie-Hellman_Backdoor</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Hack: Script for searching the extracted firmware file system for goodies!</title>
+      <link>https://github.com/craigz28/firmwalker</link>
+      <description><![CDATA[Description: Script for searching the extracted firmware file system for goodies!<br />
+URL: <a href='https://github.com/craigz28/firmwalker'>https://github.com/craigz28/firmwalker</a>]]></description>
+      <guid isPermaLink="false">https://github.com/craigz28/firmwalker</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Hack: Message Queue &amp; Broker Injection tool.</title>
+      <link>https://github.com/cr0hn/enteletaor</link>
+      <description><![CDATA[Description: Message Queue & Broker Injection tool.<br />
+URL: <a href='https://github.com/cr0hn/enteletaor'>https://github.com/cr0hn/enteletaor</a>]]></description>
+      <guid isPermaLink="false">https://github.com/cr0hn/enteletaor</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Hack: SSH Over SCTP (With Socat).</title>
+      <link>http://0x27.me/2015/07/27/SSH-Over-SCTP.html</link>
+      <description><![CDATA[Description: SSH Over SCTP (With Socat).<br />
+URL: <a href='http://0x27.me/2015/07/27/SSH-Over-SCTP.html'>http://0x27.me/2015/07/27/SSH-Over-SCTP.html</a>]]></description>
+      <guid isPermaLink="false">http://0x27.me/2015/07/27/SSH-Over-SCTP.html</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Hack: A prototype/PoC for an SSH scanner.</title>
+      <link>https://github.com/claudijd/ssh_scan</link>
+      <description><![CDATA[Description: A prototype/PoC for an SSH scanner.<br />
+URL: <a href='https://github.com/claudijd/ssh_scan'>https://github.com/claudijd/ssh_scan</a>]]></description>
+      <guid isPermaLink="false">https://github.com/claudijd/ssh_scan</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Hack: Tool for easy use of HID for offensive security and penetration testing.</title>
+      <link>https://github.com/samratashok/Kautilya</link>
+      <description><![CDATA[Description: Tool for easy use of HID for offensive security and penetration testing.<br />
+URL: <a href='https://github.com/samratashok/Kautilya'>https://github.com/samratashok/Kautilya</a>]]></description>
+      <guid isPermaLink="false">https://github.com/samratashok/Kautilya</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Hack: This firewall allows only communications made from allowed processes.</title>
+      <link>https://github.com/sha0coder/LAF</link>
+      <description><![CDATA[Description: This firewall allows only communications made from allowed processes.<br />
+URL: <a href='https://github.com/sha0coder/LAF'>https://github.com/sha0coder/LAF</a>]]></description>
+      <guid isPermaLink="false">https://github.com/sha0coder/LAF</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Hack: ASAN/SUID Local Root Exploit.</title>
+      <link>https://gist.github.com/0x27/9ff2c8fb445b6ab9c94e</link>
+      <description><![CDATA[Description: ASAN/SUID Local Root Exploit.<br />
+URL: <a href='https://gist.github.com/0x27/9ff2c8fb445b6ab9c94e'>https://gist.github.com/0x27/9ff2c8fb445b6ab9c94e</a>]]></description>
+      <guid isPermaLink="false">https://gist.github.com/0x27/9ff2c8fb445b6ab9c94e</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Hack: Convert Shellcode Into ROP.</title>
+      <link>https://github.com/gpoulios/ROPInjector/</link>
+      <description><![CDATA[Description: Convert Shellcode Into ROP.<br />
+URL: <a href='https://github.com/gpoulios/ROPInjector/'>https://github.com/gpoulios/ROPInjector/</a>]]></description>
+      <guid isPermaLink="false">https://github.com/gpoulios/ROPInjector/</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Hack: Information gathering &amp; website reconnaissance.</title>
+      <link>https://github.com/eschultze/URLextractor</link>
+      <description><![CDATA[Description: Information gathering & website reconnaissance.<br />
+URL: <a href='https://github.com/eschultze/URLextractor'>https://github.com/eschultze/URLextractor</a>]]></description>
+      <guid isPermaLink="false">https://github.com/eschultze/URLextractor</guid>
+      <category>Hack</category>
+    </item>
+    <item>
+      <title>Security: Fileless JavaScript Reverse HTTP Shell (OS JavaScript Backdoor).</title>
+      <link>http://en.wooyun.io/2016/01/18/JavaScript-Backdoor.html</link>
+      <description><![CDATA[Description: Fileless JavaScript Reverse HTTP Shell (OS JavaScript Backdoor).<br />
+URL: <a href='http://en.wooyun.io/2016/01/18/JavaScript-Backdoor.html'>http://en.wooyun.io/2016/01/18/JavaScript-Backdoor.html</a>]]></description>
+      <guid isPermaLink="false">http://en.wooyun.io/2016/01/18/JavaScript-Backdoor.html</guid>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Security: Microsoft Edge use-after-free "Case of Study".</title>
+      <link>http://blog.skylined.nl/20160316001.html</link>
+      <description><![CDATA[Description: Microsoft Edge use-after-free "Case of Study".<br />
+URL: <a href='http://blog.skylined.nl/20160316001.html'>http://blog.skylined.nl/20160316001.html</a>]]></description>
+      <guid isPermaLink="false">http://blog.skylined.nl/20160316001.html</guid>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Security: How to easily hack your Smart TV - Samsung and LG.</title>
+      <link>https://goo.gl/yegViI</link>
+      <description><![CDATA[Description: How to easily hack your Smart TV - Samsung and LG.<br />
+URL: <a href='https://goo.gl/yegViI'>https://goo.gl/yegViI</a><br />
+bit.ly inspect: <a href='https://goo.gl/yegViI+'>https://goo.gl/yegViI+</a>]]></description>
+      <guid isPermaLink="false">https://goo.gl/yegViI</guid>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Security: SpagoBI - Remote Code Execution by authenticated users.</title>
+      <link>https://goo.gl/uMCPAk</link>
+      <description><![CDATA[Description: SpagoBI - Remote Code Execution by authenticated users.<br />
+URL: <a href='https://goo.gl/uMCPAk'>https://goo.gl/uMCPAk</a><br />
+bit.ly inspect: <a href='https://goo.gl/uMCPAk+'>https://goo.gl/uMCPAk+</a>]]></description>
+      <guid isPermaLink="false">https://goo.gl/uMCPAk</guid>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Security: XML Parser Evaluation (Ruby, Python, .NET, PHP, Perl, Java).</title>
+      <link>http://web-in-security.blogspot.pt/2016/03/xml-parser-evaluation.html</link>
+      <description><![CDATA[Description: XML Parser Evaluation (Ruby, Python, .NET, PHP, Perl, Java).<br />
+URL: <a href='http://web-in-security.blogspot.pt/2016/03/xml-parser-evaluation.html'>http://web-in-security.blogspot.pt/2016/03/xml-parser-evaluation.html</a><br />
+PoC: <a href='https://github.com/RUB'>https://github.com/RUB</a>]]></description>
+      <guid isPermaLink="false">http://web-in-security.blogspot.pt/2016/03/xml-parser-evaluation.html</guid>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Security: Attacking IPV6.</title>
+      <link>https://gist.github.com/Teino1978-Corp/c7a855d0c0eaa348273b</link>
+      <description><![CDATA[Description: Attacking IPV6.<br />
+URL: <a href='https://gist.github.com/Teino1978-Corp/c7a855d0c0eaa348273b'>https://gist.github.com/Teino1978-Corp/c7a855d0c0eaa348273b</a>]]></description>
+      <guid isPermaLink="false">https://gist.github.com/Teino1978-Corp/c7a855d0c0eaa348273b</guid>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Security: Bypassing AVs w/ 10 Lines of Code.</title>
+      <link>http://www.attactics.org/2016/03/bypassing-antivirus-with-10-lines-of.html</link>
+      <description><![CDATA[Description: Bypassing AVs w/ 10 Lines of Code.<br />
+URL: <a href='http://www.attactics.org/2016/03/bypassing-antivirus-with-10-lines-of.html'>http://www.attactics.org/2016/03/bypassing-antivirus-with-10-lines-of.html</a>]]></description>
+      <guid isPermaLink="false">http://www.attactics.org/2016/03/bypassing-antivirus-with-10-lines-of.html</guid>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Security: Remote Code Execution in CCTV-DVR affecting over 70 different vendors.</title>
+      <link>http://www.kerneronsec.com/2016/02/remote-code-execution-in-cctv-dvrs-of.html</link>
+      <description><![CDATA[Description: Remote Code Execution in CCTV-DVR affecting over 70 different vendors.<br />
+URL: <a href='http://www.kerneronsec.com/2016/02/remote-code-execution-in-cctv-dvrs-of.html'>http://www.kerneronsec.com/2016/02/remote-code-execution-in-cctv-dvrs-of.html</a>]]></description>
+      <guid isPermaLink="false">http://www.kerneronsec.com/2016/02/remote-code-execution-in-cctv-dvrs-of.html</guid>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Security: Unauthenticated "filter" parameter leak PII (CVE-2016-1562).</title>
+      <link>http://jeffq.com/blog/dteenergy-insight/</link>
+      <description><![CDATA[Description: Unauthenticated "filter" parameter leak PII (CVE-2016-1562).<br />
+URL: <a href='http://jeffq.com/blog/dteenergy-insight/'>http://jeffq.com/blog/dteenergy-insight/</a>]]></description>
+      <guid isPermaLink="false">http://jeffq.com/blog/dteenergy-insight/</guid>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Security: Extracting the Private Key from a TREZOR (Hardware wallet for Bitcoins).</title>
+      <link>https://jochen-hoenicke.de/trezor-power-analysis/</link>
+      <description><![CDATA[Description: Extracting the Private Key from a TREZOR (Hardware wallet for Bitcoins).<br />
+URL: <a href='https://jochen-hoenicke.de/trezor-power-analysis/'>https://jochen-hoenicke.de/trezor-power-analysis/</a>]]></description>
+      <guid isPermaLink="false">https://jochen-hoenicke.de/trezor-power-analysis/</guid>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Fun: Play Tron over SSH.</title>
+      <link>https://github.com/zachlatta/sshtron</link>
+      <description><![CDATA[Description: Play Tron over SSH.<br />
+URL: <a href='https://github.com/zachlatta/sshtron'>https://github.com/zachlatta/sshtron</a>]]></description>
+      <guid isPermaLink="false">https://github.com/zachlatta/sshtron</guid>
+      <category>Fun</category>
+    </item>
+    <item>
+      <title>Fun: The LaTeX cargo cult.</title>
+      <link>http://www.joshparsons.net/latex/</link>
+      <description><![CDATA[Description: The LaTeX cargo cult.<br />
+URL: <a href='http://www.joshparsons.net/latex/'>http://www.joshparsons.net/latex/</a>]]></description>
+      <guid isPermaLink="false">http://www.joshparsons.net/latex/</guid>
+      <category>Fun</category>
+    </item>
+    <item>
+      <title>Fun: Biteye &amp; Vix.</title>
+      <link>http://actinid.org/vix/</link>
+      <description><![CDATA[Description: Biteye & Vix.<br />
+URL: <a href='http://actinid.org/vix/'>http://actinid.org/vix/</a>]]></description>
+      <guid isPermaLink="false">http://actinid.org/vix/</guid>
+      <category>Fun</category>
+    </item>
+  </channel>
+</rss>
