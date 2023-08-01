@@ -5,7 +5,7 @@
   <updated>2023-08-01T19:43:45.374169+00:00</updated>
   <author>
     <name>Renato Rodrigues - @simps0n - http://pathonproject.com</name>
-    <email>Renato Rodrigues - @simps0n - http://pathonproject.com</email>
+    <email>foo@bar.com</email>
   </author>
   <link href="http://pathonproject.com/zb/?3e0c86056cda2afc#yOFQTNpH6z8BQ5doIzIjnCfpxCFaIwAkC+l+hGjHbz8=" rel="alternate"/>
   <link href="https://xl-sec.github.io/ezine-dev/latest.atom" rel="self"/>
@@ -15,8 +15,6 @@
     <id>https://cure53.de/pentest-report_curl.pdf</id>
     <title>Must see: Pentest-Report cURL by Cure53.</title>
     <updated>2023-08-01T19:43:45.374248+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Pentest-Report cURL by Cure53.<br>
-URL: <a href='https://cure53.de/pentest-report_curl.pdf'>https://cure53.de/pentest-report_curl.pdf</a>]]></content>
     <link href="https://cure53.de/pentest-report_curl.pdf" rel="alternate"/>
     <category term="Must see"/>
   </entry>
@@ -24,8 +22,6 @@ URL: <a href='https://cure53.de/pentest-report_curl.pdf'>https://cure53.de/pente
     <id>https://medium.com/@joewalnes/tail-f-to-the-web-browser-b933d9056cc#.4rnmefbo1</id>
     <title>Must see: tail -f to the web-browser 😁.</title>
     <updated>2023-08-01T19:43:45.374277+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: tail -f to the web-browser 😁.<br>
-URL: <a href='https://medium.com/@joewalnes/tail-f-to-the-web-browser-b933d9056cc#.4rnmefbo1'>https://medium.com/@joewalnes/tail-f-to-the-web-browser-b933d9056cc#.4rnmefbo1</a>]]></content>
     <link href="https://medium.com/@joewalnes/tail-f-to-the-web-browser-b933d9056cc#.4rnmefbo1" rel="alternate"/>
     <category term="Must see"/>
   </entry>
@@ -33,8 +29,6 @@ URL: <a href='https://medium.com/@joewalnes/tail-f-to-the-web-browser-b933d9056c
     <id>https://github.com/antisnatchor/phishlulz</id>
     <title>Hack: PhishLulz is a Ruby toolset aimed at automating Phishing activities.</title>
     <updated>2023-08-01T19:43:45.374290+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: PhishLulz is a Ruby toolset aimed at automating Phishing activities.<br>
-URL: <a href='https://github.com/antisnatchor/phishlulz'>https://github.com/antisnatchor/phishlulz</a>]]></content>
     <link href="https://github.com/antisnatchor/phishlulz" rel="alternate"/>
     <category term="Hack"/>
   </entry>
@@ -42,8 +36,6 @@ URL: <a href='https://github.com/antisnatchor/phishlulz'>https://github.com/anti
     <id>https://github.com/Arno0x/CSharpScripts</id>
     <title>Hack: Playing with PE and Shellcode reflective injection (C# Scripts).</title>
     <updated>2023-08-01T19:43:45.374299+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Playing with PE and Shellcode reflective injection (C# Scripts).<br>
-URL: <a href='https://github.com/Arno0x/CSharpScripts'>https://github.com/Arno0x/CSharpScripts</a>]]></content>
     <link href="https://github.com/Arno0x/CSharpScripts" rel="alternate"/>
     <category term="Hack"/>
   </entry>
@@ -51,8 +43,6 @@ URL: <a href='https://github.com/Arno0x/CSharpScripts'>https://github.com/Arno0x
     <id>https://github.com/vspandan/IFuzzer</id>
     <title>Hack: An Evolutionary Interpreter Fuzzer (Javascript Research).</title>
     <updated>2023-08-01T19:43:45.374314+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: An Evolutionary Interpreter Fuzzer (Javascript Research).<br>
-URL: <a href='https://github.com/vspandan/IFuzzer'>https://github.com/vspandan/IFuzzer</a>]]></content>
     <link href="https://github.com/vspandan/IFuzzer" rel="alternate"/>
     <category term="Hack"/>
   </entry>
@@ -60,8 +50,6 @@ URL: <a href='https://github.com/vspandan/IFuzzer'>https://github.com/vspandan/I
     <id>https://github.com/henshin/filebuster</id>
     <title>Hack: An extremely fast and flexible web fuzzer.</title>
     <updated>2023-08-01T19:43:45.374326+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: An extremely fast and flexible web fuzzer.<br>
-URL: <a href='https://github.com/henshin/filebuster'>https://github.com/henshin/filebuster</a>]]></content>
     <link href="https://github.com/henshin/filebuster" rel="alternate"/>
     <category term="Hack"/>
   </entry>
@@ -69,8 +57,6 @@ URL: <a href='https://github.com/henshin/filebuster'>https://github.com/henshin/
     <id>https://averagesecurityguy.github.io/2016/10/21/recon-ng-dorks-burp/</id>
     <title>Hack: Recon-ng + Google Dorks + Burp = ... (Tips and Tricks).</title>
     <updated>2023-08-01T19:43:45.374337+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Recon-ng + Google Dorks + Burp = ... (Tips and Tricks).<br>
-URL: <a href='https://averagesecurityguy.github.io/2016/10/21/recon-ng-dorks-burp/'>https://averagesecurityguy.github.io/2016/10/21/recon-ng-dorks-burp/</a>]]></content>
     <link href="https://averagesecurityguy.github.io/2016/10/21/recon-ng-dorks-burp/" rel="alternate"/>
     <category term="Hack"/>
   </entry>
@@ -78,8 +64,6 @@ URL: <a href='https://averagesecurityguy.github.io/2016/10/21/recon-ng-dorks-bur
     <id>https://github.com/SafeBreach-Labs/pwndsh</id>
     <title>Hack: Post-exploitation framework (and an interactive shell) in #!.</title>
     <updated>2023-08-01T19:43:45.374373+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Post-exploitation framework (and an interactive shell) in #!.<br>
-URL: <a href='https://github.com/SafeBreach-Labs/pwndsh'>https://github.com/SafeBreach-Labs/pwndsh</a>]]></content>
     <link href="https://github.com/SafeBreach-Labs/pwndsh" rel="alternate"/>
     <category term="Hack"/>
   </entry>
@@ -87,8 +71,6 @@ URL: <a href='https://github.com/SafeBreach-Labs/pwndsh'>https://github.com/Safe
     <id>https://github.com/nabla-c0d3/ssl-kill-switch2</id>
     <title>Hack: Tool to disable SSL certificate validation (iOS and OS X Apps).</title>
     <updated>2023-08-01T19:43:45.374396+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Tool to disable SSL certificate validation (iOS and OS X Apps).<br>
-URL: <a href='https://github.com/nabla-c0d3/ssl-kill-switch2'>https://github.com/nabla-c0d3/ssl-kill-switch2</a>]]></content>
     <link href="https://github.com/nabla-c0d3/ssl-kill-switch2" rel="alternate"/>
     <category term="Hack"/>
   </entry>
@@ -96,8 +78,6 @@ URL: <a href='https://github.com/nabla-c0d3/ssl-kill-switch2'>https://github.com
     <id>https://github.com/renatahodovan/fuzzinator</id>
     <title>Hack: Fuzzinator Random Testing Framework.</title>
     <updated>2023-08-01T19:43:45.374412+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Fuzzinator Random Testing Framework.<br>
-URL: <a href='https://github.com/renatahodovan/fuzzinator'>https://github.com/renatahodovan/fuzzinator</a>]]></content>
     <link href="https://github.com/renatahodovan/fuzzinator" rel="alternate"/>
     <category term="Hack"/>
   </entry>
@@ -105,8 +85,6 @@ URL: <a href='https://github.com/renatahodovan/fuzzinator'>https://github.com/re
     <id>https://www.netresec.com/?page=findject</id>
     <title>Hack: Script that can find injected TCP packets in HTTP sessions.</title>
     <updated>2023-08-01T19:43:45.374421+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Script that can find injected TCP packets in HTTP sessions.<br>
-URL: <a href='https://www.netresec.com/?page=findject'>https://www.netresec.com/?page=findject</a>]]></content>
     <link href="https://www.netresec.com/?page=findject" rel="alternate"/>
     <category term="Hack"/>
   </entry>
@@ -114,9 +92,6 @@ URL: <a href='https://www.netresec.com/?page=findject'>https://www.netresec.com/
     <id>https://github.com/AppSecConsulting/Pentest-Tools/blob/master/jetty-bleed.py</id>
     <title>Hack: Making Jetty Bleed.</title>
     <updated>2023-08-01T19:43:45.374428+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Making Jetty Bleed.<br>
-URL: <a href='https://github.com/AppSecConsulting/Pentest-Tools/blob/master/jetty-bleed.py'>https://github.com/AppSecConsulting/Pentest-Tools/blob/master/jetty-bleed.py</a><br>
-Blog: <a href='https://www.appsecconsulting.com/blog/making'>https://www.appsecconsulting.com/blog/making</a>]]></content>
     <link href="https://github.com/AppSecConsulting/Pentest-Tools/blob/master/jetty-bleed.py" rel="alternate"/>
     <category term="Hack"/>
   </entry>
@@ -124,8 +99,6 @@ Blog: <a href='https://www.appsecconsulting.com/blog/making'>https://www.appsecc
     <id>https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8#.hlfdfpeiv</id>
     <title>Security: Syscall Auditing at Scale.</title>
     <updated>2023-08-01T19:43:45.374435+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Syscall Auditing at Scale.<br>
-URL: <a href='https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8#.hlfdfpeiv'>https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8#.hlfdfpeiv</a>]]></content>
     <link href="https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8#.hlfdfpeiv" rel="alternate"/>
     <category term="Security"/>
   </entry>
@@ -133,8 +106,6 @@ URL: <a href='https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8#.
     <id>https://www.utkusen.com/blog/sending-valid-phishing-emails-from-microsoftcom.html</id>
     <title>Security: Sending Phishing E-mails From Microsoft.com Domain by Using Office 365.</title>
     <updated>2023-08-01T19:43:45.374441+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Sending Phishing E-mails From Microsoft.com Domain by Using Office 365.<br>
-URL: <a href='https://www.utkusen.com/blog/sending-valid-phishing-emails-from-microsoftcom.html'>https://www.utkusen.com/blog/sending-valid-phishing-emails-from-microsoftcom.html</a>]]></content>
     <link href="https://www.utkusen.com/blog/sending-valid-phishing-emails-from-microsoftcom.html" rel="alternate"/>
     <category term="Security"/>
   </entry>
@@ -142,9 +113,6 @@ URL: <a href='https://www.utkusen.com/blog/sending-valid-phishing-emails-from-mi
     <id>https://goo.gl/ssq3Oo</id>
     <title>Security: Continuous security testing of your app w/ OWASP ZAP and Elasticsearch.</title>
     <updated>2023-08-01T19:43:45.374453+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Continuous security testing of your app w/ OWASP ZAP and Elasticsearch.<br>
-URL: <a href='https://goo.gl/ssq3Oo'>https://goo.gl/ssq3Oo</a><br>
-bit.ly inspect: <a href='https://goo.gl/ssq3Oo+'>https://goo.gl/ssq3Oo+</a>]]></content>
     <link href="https://goo.gl/ssq3Oo" rel="alternate"/>
     <category term="Security"/>
   </entry>
@@ -152,8 +120,6 @@ bit.ly inspect: <a href='https://goo.gl/ssq3Oo+'>https://goo.gl/ssq3Oo+</a>]]></
     <id>https://github.com/bowlofstew/rootkit.com</id>
     <title>Security: ROOTKIT.com site users section Dump.</title>
     <updated>2023-08-01T19:43:45.374459+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: ROOTKIT.com site users section Dump.<br>
-URL: <a href='https://github.com/bowlofstew/rootkit.com'>https://github.com/bowlofstew/rootkit.com</a>]]></content>
     <link href="https://github.com/bowlofstew/rootkit.com" rel="alternate"/>
     <category term="Security"/>
   </entry>
@@ -161,8 +127,6 @@ URL: <a href='https://github.com/bowlofstew/rootkit.com'>https://github.com/bowl
     <id>http://blog.0x3a.com/post/153468210759/monitoring-dns-inside-the-tor-network</id>
     <title>Security: Monitoring 'DNS' inside the Tor network.</title>
     <updated>2023-08-01T19:43:45.374464+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Monitoring 'DNS' inside the Tor network.<br>
-URL: <a href='http://blog.0x3a.com/post/153468210759/monitoring-dns-inside-the-tor-network'>http://blog.0x3a.com/post/153468210759/monitoring-dns-inside-the-tor-network</a>]]></content>
     <link href="http://blog.0x3a.com/post/153468210759/monitoring-dns-inside-the-tor-network" rel="alternate"/>
     <category term="Security"/>
   </entry>
@@ -170,9 +134,6 @@ URL: <a href='http://blog.0x3a.com/post/153468210759/monitoring-dns-inside-the-t
     <id>https://goo.gl/0wvoBX</id>
     <title>Security: Adobe Reader Privileged JavaScript 0Days (CVE-2016-6957/CVE-2016-6958).</title>
     <updated>2023-08-01T19:43:45.374472+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Adobe Reader Privileged JavaScript 0Days (CVE-2016-6957/CVE-2016-6958).<br>
-URL: <a href='https://goo.gl/0wvoBX'>https://goo.gl/0wvoBX</a><br>
-bit.ly inspect: <a href='https://goo.gl/0wvoBX+'>https://goo.gl/0wvoBX+</a>]]></content>
     <link href="https://goo.gl/0wvoBX" rel="alternate"/>
     <category term="Security"/>
   </entry>
@@ -180,8 +141,6 @@ bit.ly inspect: <a href='https://goo.gl/0wvoBX+'>https://goo.gl/0wvoBX+</a>]]></
     <id>http://ropgadget.com/posts/pebwalk.html</id>
     <title>Security: Stepping through PE structures to find function addresses.</title>
     <updated>2023-08-01T19:43:45.374478+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Stepping through PE structures to find function addresses.<br>
-URL: <a href='http://ropgadget.com/posts/pebwalk.html'>http://ropgadget.com/posts/pebwalk.html</a>]]></content>
     <link href="http://ropgadget.com/posts/pebwalk.html" rel="alternate"/>
     <category term="Security"/>
   </entry>
@@ -189,8 +148,6 @@ URL: <a href='http://ropgadget.com/posts/pebwalk.html'>http://ropgadget.com/post
     <id>https://arno0x0x.wordpress.com/2015/11/27/hacking-voip/</id>
     <title>Security: Hacking voice over IP communications.</title>
     <updated>2023-08-01T19:43:45.374483+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Hacking voice over IP communications.<br>
-URL: <a href='https://arno0x0x.wordpress.com/2015/11/27/hacking-voip/'>https://arno0x0x.wordpress.com/2015/11/27/hacking-voip/</a>]]></content>
     <link href="https://arno0x0x.wordpress.com/2015/11/27/hacking-voip/" rel="alternate"/>
     <category term="Security"/>
   </entry>
@@ -198,8 +155,6 @@ URL: <a href='https://arno0x0x.wordpress.com/2015/11/27/hacking-voip/'>https://a
     <id>https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html</id>
     <title>Security: GPON FTTH (Fiber To The Home) networks (in)security.</title>
     <updated>2023-08-01T19:43:45.374492+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: GPON FTTH (Fiber To The Home) networks (in)security.<br>
-URL: <a href='https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html'>https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html</a>]]></content>
     <link href="https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html" rel="alternate"/>
     <category term="Security"/>
   </entry>
@@ -207,8 +162,6 @@ URL: <a href='https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-ins
     <id>https://www.n00py.io/2016/10/using-email-for-persistence-on-os-x/</id>
     <title>Security: Using email for persistence on OS X.</title>
     <updated>2023-08-01T19:43:45.374498+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Using email for persistence on OS X.<br>
-URL: <a href='https://www.n00py.io/2016/10/using-email-for-persistence-on-os-x/'>https://www.n00py.io/2016/10/using-email-for-persistence-on-os-x/</a>]]></content>
     <link href="https://www.n00py.io/2016/10/using-email-for-persistence-on-os-x/" rel="alternate"/>
     <category term="Security"/>
   </entry>
@@ -216,8 +169,6 @@ URL: <a href='https://www.n00py.io/2016/10/using-email-for-persistence-on-os-x/'
     <id>http://graffiti.gaurs.io/</id>
     <title>Fun: Graffiti is a core java based tool used to analyse jar files.</title>
     <updated>2023-08-01T19:43:45.374504+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Graffiti is a core java based tool used to analyse jar files.<br>
-URL: <a href='http://graffiti.gaurs.io/'>http://graffiti.gaurs.io/</a>]]></content>
     <link href="http://graffiti.gaurs.io/" rel="alternate"/>
     <category term="Fun"/>
   </entry>
@@ -225,8 +176,6 @@ URL: <a href='http://graffiti.gaurs.io/'>http://graffiti.gaurs.io/</a>]]></conte
     <id>http://jerrygamblin.com/2016/11/12/automated-burp-suite-scanning-and-reporting-to-slack/</id>
     <title>Fun: Automated Burp Suite Scanning and Reporting To Slack.</title>
     <updated>2023-08-01T19:43:45.374509+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Automated Burp Suite Scanning and Reporting To Slack.<br>
-URL: <a href='http://jerrygamblin.com/2016/11/12/automated-burp-suite-scanning-and-reporting-to-slack/'>http://jerrygamblin.com/2016/11/12/automated-burp-suite-scanning-and-reporting-to-slack/</a>]]></content>
     <link href="http://jerrygamblin.com/2016/11/12/automated-burp-suite-scanning-and-reporting-to-slack/" rel="alternate"/>
     <category term="Fun"/>
   </entry>
@@ -234,8 +183,6 @@ URL: <a href='http://jerrygamblin.com/2016/11/12/automated-burp-suite-scanning-a
     <id>http://www.glamenv-septzen.net/en/view/6</id>
     <title>Fun: Why BIOS loads MBR into 0x7C00 in x86?</title>
     <updated>2023-08-01T19:43:45.374516+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Why BIOS loads MBR into 0x7C00 in x86?<br>
-URL: <a href='http://www.glamenv-septzen.net/en/view/6'>http://www.glamenv-septzen.net/en/view/6</a>]]></content>
     <link href="http://www.glamenv-septzen.net/en/view/6" rel="alternate"/>
     <category term="Fun"/>
   </entry>
