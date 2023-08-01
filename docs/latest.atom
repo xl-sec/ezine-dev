@@ -2,241 +2,261 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>http://pathonproject.com/zb/?3e0c86056cda2afc#yOFQTNpH6z8BQ5doIzIjnCfpxCFaIwAkC+l+hGjHbz8=</id>
   <title>AppSec Ezine latest.atom</title>
-  <updated>2023-08-01T19:43:45.374169+00:00</updated>
+  <updated>2023-08-01T20:13:45.831235+00:00</updated>
   <author>
     <name>Renato Rodrigues - @simps0n - http://pathonproject.com</name>
-    <email>foo@bar.com</email>
+    <email>simpsonpt@gmail.com</email>
   </author>
   <link href="http://pathonproject.com/zb/?3e0c86056cda2afc#yOFQTNpH6z8BQ5doIzIjnCfpxCFaIwAkC+l+hGjHbz8=" rel="alternate"/>
   <link href="https://xl-sec.github.io/ezine-dev/latest.atom" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <subtitle>AppSec Ezine latest.atom</subtitle>
   <entry>
-    <id>https://cure53.de/pentest-report_curl.pdf</id>
-    <title>Must see: Pentest-Report cURL by Cure53.</title>
-    <updated>2023-08-01T20:03:33.181462+00:00</updated>
-    <content type="html">Description: Pentest-Report cURL by Cure53.&lt;br&gt;
-URL: &lt;a href='https://cure53.de/pentest-report_curl.pdf'&gt;https://cure53.de/pentest-report_curl.pdf&lt;/a&gt;</content>
-    <link href="https://cure53.de/pentest-report_curl.pdf" rel="alternate"/>
+    <id>https://s1gnalcha0s.github.io/epub/2017/01/25/This-book-reads-you.html</id>
+    <title>Must see: This book reads you - exploiting ePub book format.</title>
+    <updated>2023-08-01T20:13:45.831345+00:00</updated>
+    <content type="html">Description: This book reads you - exploiting ePub book format.&lt;br&gt;
+URL: &lt;a href='https://s1gnalcha0s.github.io/epub/2017/01/25/This-book-reads-you.html'&gt;https://s1gnalcha0s.github.io/epub/2017/01/25/This-book-reads-you.html&lt;/a&gt;</content>
+    <link href="https://s1gnalcha0s.github.io/epub/2017/01/25/This-book-reads-you.html" rel="alternate"/>
     <category term="Must see"/>
   </entry>
   <entry>
-    <id>https://medium.com/@joewalnes/tail-f-to-the-web-browser-b933d9056cc#.4rnmefbo1</id>
-    <title>Must see: tail -f to the web-browser 😁.</title>
-    <updated>2023-08-01T20:03:33.181503+00:00</updated>
-    <content type="html">Description: tail -f to the web-browser 😁.&lt;br&gt;
-URL: &lt;a href='https://medium.com/@joewalnes/tail-f-to-the-web-browser-b933d9056cc#.4rnmefbo1'&gt;https://medium.com/@joewalnes/tail-f-to-the-web-browser-b933d9056cc#.4rnmefbo1&lt;/a&gt;</content>
-    <link href="https://medium.com/@joewalnes/tail-f-to-the-web-browser-b933d9056cc#.4rnmefbo1" rel="alternate"/>
+    <id>http://phrack.org/papers/cyber_grand_shellphish.html</id>
+    <title>Must see: Cyber Grand Shellphish.</title>
+    <updated>2023-08-01T20:13:45.831392+00:00</updated>
+    <content type="html">Description: Cyber Grand Shellphish.&lt;br&gt;
+URL: &lt;a href='http://phrack.org/papers/cyber_grand_shellphish.html'&gt;http://phrack.org/papers/cyber_grand_shellphish.html&lt;/a&gt;</content>
+    <link href="http://phrack.org/papers/cyber_grand_shellphish.html" rel="alternate"/>
     <category term="Must see"/>
   </entry>
   <entry>
-    <id>https://github.com/antisnatchor/phishlulz</id>
-    <title>Hack: PhishLulz is a Ruby toolset aimed at automating Phishing activities.</title>
-    <updated>2023-08-01T20:03:33.181523+00:00</updated>
-    <content type="html">Description: PhishLulz is a Ruby toolset aimed at automating Phishing activities.&lt;br&gt;
-URL: &lt;a href='https://github.com/antisnatchor/phishlulz'&gt;https://github.com/antisnatchor/phishlulz&lt;/a&gt;</content>
-    <link href="https://github.com/antisnatchor/phishlulz" rel="alternate"/>
+    <id>https://hackerone.com/reports/166942</id>
+    <title>Must see: Leaking OAuth authorization to 3rd party websites (callbacks).</title>
+    <updated>2023-08-01T20:13:45.831414+00:00</updated>
+    <content type="html">Description: Leaking OAuth authorization to 3rd party websites (callbacks).&lt;br&gt;
+URL: &lt;a href='https://hackerone.com/reports/166942'&gt;https://hackerone.com/reports/166942&lt;/a&gt;</content>
+    <link href="https://hackerone.com/reports/166942" rel="alternate"/>
+    <category term="Must see"/>
+  </entry>
+  <entry>
+    <id>https://doxmyipwindowstool.codeplex.com/</id>
+    <title>Hack: Simple IP address browser for Windows.</title>
+    <updated>2023-08-01T20:13:45.831431+00:00</updated>
+    <content type="html">Description: Simple IP address browser for Windows.&lt;br&gt;
+URL: &lt;a href='https://doxmyipwindowstool.codeplex.com/'&gt;https://doxmyipwindowstool.codeplex.com/&lt;/a&gt;</content>
+    <link href="https://doxmyipwindowstool.codeplex.com/" rel="alternate"/>
     <category term="Hack"/>
   </entry>
   <entry>
-    <id>https://github.com/Arno0x/CSharpScripts</id>
-    <title>Hack: Playing with PE and Shellcode reflective injection (C# Scripts).</title>
-    <updated>2023-08-01T20:03:33.181540+00:00</updated>
-    <content type="html">Description: Playing with PE and Shellcode reflective injection (C# Scripts).&lt;br&gt;
-URL: &lt;a href='https://github.com/Arno0x/CSharpScripts'&gt;https://github.com/Arno0x/CSharpScripts&lt;/a&gt;</content>
-    <link href="https://github.com/Arno0x/CSharpScripts" rel="alternate"/>
+    <id>https://github.com/OWASP/glue</id>
+    <title>Hack: Application Security Automation.</title>
+    <updated>2023-08-01T20:13:45.831449+00:00</updated>
+    <content type="html">Description: Application Security Automation.&lt;br&gt;
+URL: &lt;a href='https://github.com/OWASP/glue'&gt;https://github.com/OWASP/glue&lt;/a&gt;</content>
+    <link href="https://github.com/OWASP/glue" rel="alternate"/>
     <category term="Hack"/>
   </entry>
   <entry>
-    <id>https://github.com/vspandan/IFuzzer</id>
-    <title>Hack: An Evolutionary Interpreter Fuzzer (Javascript Research).</title>
-    <updated>2023-08-01T20:03:33.181559+00:00</updated>
-    <content type="html">Description: An Evolutionary Interpreter Fuzzer (Javascript Research).&lt;br&gt;
-URL: &lt;a href='https://github.com/vspandan/IFuzzer'&gt;https://github.com/vspandan/IFuzzer&lt;/a&gt;</content>
-    <link href="https://github.com/vspandan/IFuzzer" rel="alternate"/>
+    <id>https://github.com/nowsecure/r2frida</id>
+    <title>Hack: Radare2 and Frida better together.</title>
+    <updated>2023-08-01T20:13:45.831469+00:00</updated>
+    <content type="html">Description: Radare2 and Frida better together.&lt;br&gt;
+URL: &lt;a href='https://github.com/nowsecure/r2frida'&gt;https://github.com/nowsecure/r2frida&lt;/a&gt;</content>
+    <link href="https://github.com/nowsecure/r2frida" rel="alternate"/>
     <category term="Hack"/>
   </entry>
   <entry>
-    <id>https://github.com/henshin/filebuster</id>
-    <title>Hack: An extremely fast and flexible web fuzzer.</title>
-    <updated>2023-08-01T20:03:33.181577+00:00</updated>
-    <content type="html">Description: An extremely fast and flexible web fuzzer.&lt;br&gt;
-URL: &lt;a href='https://github.com/henshin/filebuster'&gt;https://github.com/henshin/filebuster&lt;/a&gt;</content>
-    <link href="https://github.com/henshin/filebuster" rel="alternate"/>
+    <id>https://phpinfo.me/2016/07/07/1275.html</id>
+    <title>Hack: Redis Hacks Dump (Tips&amp;Tricks).</title>
+    <updated>2023-08-01T20:13:45.831493+00:00</updated>
+    <content type="html">Description: Redis Hacks Dump (Tips&amp;Tricks).&lt;br&gt;
+URL: &lt;a href='https://phpinfo.me/2016/07/07/1275.html'&gt;https://phpinfo.me/2016/07/07/1275.html&lt;/a&gt;</content>
+    <link href="https://phpinfo.me/2016/07/07/1275.html" rel="alternate"/>
     <category term="Hack"/>
   </entry>
   <entry>
-    <id>https://averagesecurityguy.github.io/2016/10/21/recon-ng-dorks-burp/</id>
-    <title>Hack: Recon-ng + Google Dorks + Burp = ... (Tips and Tricks).</title>
-    <updated>2023-08-01T20:03:33.181593+00:00</updated>
-    <content type="html">Description: Recon-ng + Google Dorks + Burp = ... (Tips and Tricks).&lt;br&gt;
-URL: &lt;a href='https://averagesecurityguy.github.io/2016/10/21/recon-ng-dorks-burp/'&gt;https://averagesecurityguy.github.io/2016/10/21/recon-ng-dorks-burp/&lt;/a&gt;</content>
-    <link href="https://averagesecurityguy.github.io/2016/10/21/recon-ng-dorks-burp/" rel="alternate"/>
+    <id>https://github.com/mazen160/server-status_PWN</id>
+    <title>Hack: Apache server-status monitor and information extraction.</title>
+    <updated>2023-08-01T20:13:45.831519+00:00</updated>
+    <content type="html">Description: Apache server-status monitor and information extraction.&lt;br&gt;
+URL: &lt;a href='https://github.com/mazen160/server-status_PWN'&gt;https://github.com/mazen160/server-status_PWN&lt;/a&gt;</content>
+    <link href="https://github.com/mazen160/server-status_PWN" rel="alternate"/>
     <category term="Hack"/>
   </entry>
   <entry>
-    <id>https://github.com/SafeBreach-Labs/pwndsh</id>
-    <title>Hack: Post-exploitation framework (and an interactive shell) in #!.</title>
-    <updated>2023-08-01T20:03:33.181610+00:00</updated>
-    <content type="html">Description: Post-exploitation framework (and an interactive shell) in #!.&lt;br&gt;
-URL: &lt;a href='https://github.com/SafeBreach-Labs/pwndsh'&gt;https://github.com/SafeBreach-Labs/pwndsh&lt;/a&gt;</content>
-    <link href="https://github.com/SafeBreach-Labs/pwndsh" rel="alternate"/>
+    <id>https://github.com/John-Lin/docker-snort</id>
+    <title>Hack: Snort in Docker for Network Functions Virtualization (NFV).</title>
+    <updated>2023-08-01T20:13:45.831536+00:00</updated>
+    <content type="html">Description: Snort in Docker for Network Functions Virtualization (NFV).&lt;br&gt;
+URL: &lt;a href='https://github.com/John-Lin/docker-snort'&gt;https://github.com/John-Lin/docker-snort&lt;/a&gt;</content>
+    <link href="https://github.com/John-Lin/docker-snort" rel="alternate"/>
     <category term="Hack"/>
   </entry>
   <entry>
-    <id>https://github.com/nabla-c0d3/ssl-kill-switch2</id>
-    <title>Hack: Tool to disable SSL certificate validation (iOS and OS X Apps).</title>
-    <updated>2023-08-01T20:03:33.181626+00:00</updated>
-    <content type="html">Description: Tool to disable SSL certificate validation (iOS and OS X Apps).&lt;br&gt;
-URL: &lt;a href='https://github.com/nabla-c0d3/ssl-kill-switch2'&gt;https://github.com/nabla-c0d3/ssl-kill-switch2&lt;/a&gt;</content>
-    <link href="https://github.com/nabla-c0d3/ssl-kill-switch2" rel="alternate"/>
+    <id>https://github.com/dxa4481/whatsinmyredis</id>
+    <title>Hack: Redis ransomware and data stealer.</title>
+    <updated>2023-08-01T20:13:45.831547+00:00</updated>
+    <content type="html">Description: Redis ransomware and data stealer.&lt;br&gt;
+URL: &lt;a href='https://github.com/dxa4481/whatsinmyredis'&gt;https://github.com/dxa4481/whatsinmyredis&lt;/a&gt;</content>
+    <link href="https://github.com/dxa4481/whatsinmyredis" rel="alternate"/>
     <category term="Hack"/>
   </entry>
   <entry>
-    <id>https://github.com/renatahodovan/fuzzinator</id>
-    <title>Hack: Fuzzinator Random Testing Framework.</title>
-    <updated>2023-08-01T20:03:33.181640+00:00</updated>
-    <content type="html">Description: Fuzzinator Random Testing Framework.&lt;br&gt;
-URL: &lt;a href='https://github.com/renatahodovan/fuzzinator'&gt;https://github.com/renatahodovan/fuzzinator&lt;/a&gt;</content>
-    <link href="https://github.com/renatahodovan/fuzzinator" rel="alternate"/>
+    <id>https://github.com/darryllane/Bluto</id>
+    <title>Hack: Recon swiss army knife.</title>
+    <updated>2023-08-01T20:13:45.831557+00:00</updated>
+    <content type="html">Description: Recon swiss army knife.&lt;br&gt;
+URL: &lt;a href='https://github.com/darryllane/Bluto'&gt;https://github.com/darryllane/Bluto&lt;/a&gt;</content>
+    <link href="https://github.com/darryllane/Bluto" rel="alternate"/>
     <category term="Hack"/>
   </entry>
   <entry>
-    <id>https://www.netresec.com/?page=findject</id>
-    <title>Hack: Script that can find injected TCP packets in HTTP sessions.</title>
-    <updated>2023-08-01T20:03:33.181652+00:00</updated>
-    <content type="html">Description: Script that can find injected TCP packets in HTTP sessions.&lt;br&gt;
-URL: &lt;a href='https://www.netresec.com/?page=findject'&gt;https://www.netresec.com/?page=findject&lt;/a&gt;</content>
-    <link href="https://www.netresec.com/?page=findject" rel="alternate"/>
+    <id>https://github.com/govolution/avet</id>
+    <title>Hack: AntiVirus Evasion Tool.</title>
+    <updated>2023-08-01T20:13:45.831569+00:00</updated>
+    <content type="html">Description: AntiVirus Evasion Tool.&lt;br&gt;
+URL: &lt;a href='https://github.com/govolution/avet'&gt;https://github.com/govolution/avet&lt;/a&gt;</content>
+    <link href="https://github.com/govolution/avet" rel="alternate"/>
     <category term="Hack"/>
   </entry>
   <entry>
-    <id>https://github.com/AppSecConsulting/Pentest-Tools/blob/master/jetty-bleed.py</id>
-    <title>Hack: Making Jetty Bleed.</title>
-    <updated>2023-08-01T20:03:33.181662+00:00</updated>
-    <content type="html">Description: Making Jetty Bleed.&lt;br&gt;
-URL: &lt;a href='https://github.com/AppSecConsulting/Pentest-Tools/blob/master/jetty-bleed.py'&gt;https://github.com/AppSecConsulting/Pentest-Tools/blob/master/jetty-bleed.py&lt;/a&gt;&lt;br&gt;
-Blog: &lt;a href='https://www.appsecconsulting.com/blog/making'&gt;https://www.appsecconsulting.com/blog/making&lt;/a&gt;</content>
-    <link href="https://github.com/AppSecConsulting/Pentest-Tools/blob/master/jetty-bleed.py" rel="alternate"/>
+    <id>https://github.com/Cn33liz/HSEVD-ArbitraryOverwriteGDI</id>
+    <title>Hack: HackSys Extreme Vulnerable Driver.</title>
+    <updated>2023-08-01T20:13:45.831578+00:00</updated>
+    <content type="html">Description: HackSys Extreme Vulnerable Driver.&lt;br&gt;
+URL: &lt;a href='https://github.com/Cn33liz/HSEVD-ArbitraryOverwriteGDI'&gt;https://github.com/Cn33liz/HSEVD-ArbitraryOverwriteGDI&lt;/a&gt;</content>
+    <link href="https://github.com/Cn33liz/HSEVD-ArbitraryOverwriteGDI" rel="alternate"/>
     <category term="Hack"/>
   </entry>
   <entry>
-    <id>https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8#.hlfdfpeiv</id>
-    <title>Security: Syscall Auditing at Scale.</title>
-    <updated>2023-08-01T20:03:33.181677+00:00</updated>
-    <content type="html">Description: Syscall Auditing at Scale.&lt;br&gt;
-URL: &lt;a href='https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8#.hlfdfpeiv'&gt;https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8#.hlfdfpeiv&lt;/a&gt;</content>
-    <link href="https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8#.hlfdfpeiv" rel="alternate"/>
+    <id>http://security.szurek.pl/winpower-v4904-privilege-escalation.html</id>
+    <title>Hack: WinPower V4.9.0.4 Privilege Escalation.</title>
+    <updated>2023-08-01T20:13:45.831589+00:00</updated>
+    <content type="html">Description: WinPower V4.9.0.4 Privilege Escalation.&lt;br&gt;
+URL: &lt;a href='http://security.szurek.pl/winpower-v4904-privilege-escalation.html'&gt;http://security.szurek.pl/winpower-v4904-privilege-escalation.html&lt;/a&gt;</content>
+    <link href="http://security.szurek.pl/winpower-v4904-privilege-escalation.html" rel="alternate"/>
+    <category term="Hack"/>
+  </entry>
+  <entry>
+    <id>https://web-in-security.blogspot.pt/2017/01/printer-security.html</id>
+    <title>Security: Printer Exploitation Research.</title>
+    <updated>2023-08-01T20:13:45.831598+00:00</updated>
+    <content type="html">Description: Printer Exploitation Research.&lt;br&gt;
+URL: &lt;a href='https://web-in-security.blogspot.pt/2017/01/printer-security.html'&gt;https://web-in-security.blogspot.pt/2017/01/printer-security.html&lt;/a&gt;&lt;br&gt;
+More: &lt;a href='http://seclists.org/fulldisclosure/2017/Jan/89'&gt;http://seclists.org/fulldisclosure/2017/Jan/89&lt;/a&gt;</content>
+    <link href="https://web-in-security.blogspot.pt/2017/01/printer-security.html" rel="alternate"/>
     <category term="Security"/>
   </entry>
   <entry>
-    <id>https://www.utkusen.com/blog/sending-valid-phishing-emails-from-microsoftcom.html</id>
-    <title>Security: Sending Phishing E-mails From Microsoft.com Domain by Using Office 365.</title>
-    <updated>2023-08-01T20:03:33.181687+00:00</updated>
-    <content type="html">Description: Sending Phishing E-mails From Microsoft.com Domain by Using Office 365.&lt;br&gt;
-URL: &lt;a href='https://www.utkusen.com/blog/sending-valid-phishing-emails-from-microsoftcom.html'&gt;https://www.utkusen.com/blog/sending-valid-phishing-emails-from-microsoftcom.html&lt;/a&gt;</content>
-    <link href="https://www.utkusen.com/blog/sending-valid-phishing-emails-from-microsoftcom.html" rel="alternate"/>
+    <id>https://raz0r.name/articles/universal-isomorphic-web-applications-security/</id>
+    <title>Security: Universal (Isomorphic) Web Applications Security (React and Redux).</title>
+    <updated>2023-08-01T20:13:45.831611+00:00</updated>
+    <content type="html">Description: Universal (Isomorphic) Web Applications Security (React and Redux).&lt;br&gt;
+URL: &lt;a href='https://raz0r.name/articles/universal-isomorphic-web-applications-security/'&gt;https://raz0r.name/articles/universal-isomorphic-web-applications-security/&lt;/a&gt;</content>
+    <link href="https://raz0r.name/articles/universal-isomorphic-web-applications-security/" rel="alternate"/>
     <category term="Security"/>
   </entry>
   <entry>
-    <id>https://goo.gl/ssq3Oo</id>
-    <title>Security: Continuous security testing of your app w/ OWASP ZAP and Elasticsearch.</title>
-    <updated>2023-08-01T20:03:33.181698+00:00</updated>
-    <content type="html">Description: Continuous security testing of your app w/ OWASP ZAP and Elasticsearch.&lt;br&gt;
-URL: &lt;a href='https://goo.gl/ssq3Oo'&gt;https://goo.gl/ssq3Oo&lt;/a&gt;&lt;br&gt;
-bit.ly inspect: &lt;a href='https://goo.gl/ssq3Oo+'&gt;https://goo.gl/ssq3Oo+&lt;/a&gt;</content>
-    <link href="https://goo.gl/ssq3Oo" rel="alternate"/>
+    <id>https://goo.gl/9LGkzY</id>
+    <title>Security: Simple domain fronting PoC with GAE C2 server.</title>
+    <updated>2023-08-01T20:13:45.831623+00:00</updated>
+    <content type="html">Description: Simple domain fronting PoC with GAE C2 server.&lt;br&gt;
+URL: &lt;a href='https://goo.gl/9LGkzY'&gt;https://goo.gl/9LGkzY&lt;/a&gt;&lt;br&gt;
+bit.ly inspect: &lt;a href='https://goo.gl/9LGkzY+'&gt;https://goo.gl/9LGkzY+&lt;/a&gt;</content>
+    <link href="https://goo.gl/9LGkzY" rel="alternate"/>
     <category term="Security"/>
   </entry>
   <entry>
-    <id>https://github.com/bowlofstew/rootkit.com</id>
-    <title>Security: ROOTKIT.com site users section Dump.</title>
-    <updated>2023-08-01T20:03:33.181713+00:00</updated>
-    <content type="html">Description: ROOTKIT.com site users section Dump.&lt;br&gt;
-URL: &lt;a href='https://github.com/bowlofstew/rootkit.com'&gt;https://github.com/bowlofstew/rootkit.com&lt;/a&gt;</content>
-    <link href="https://github.com/bowlofstew/rootkit.com" rel="alternate"/>
+    <id>https://lukasa.co.uk/2016/12/Debugging_Your_Operating_System/</id>
+    <title>Security: Debugging Your Operating System - A Lesson In Memory Allocation.</title>
+    <updated>2023-08-01T20:13:45.831632+00:00</updated>
+    <content type="html">Description: Debugging Your Operating System - A Lesson In Memory Allocation.&lt;br&gt;
+URL: &lt;a href='https://lukasa.co.uk/2016/12/Debugging_Your_Operating_System/'&gt;https://lukasa.co.uk/2016/12/Debugging_Your_Operating_System/&lt;/a&gt;</content>
+    <link href="https://lukasa.co.uk/2016/12/Debugging_Your_Operating_System/" rel="alternate"/>
     <category term="Security"/>
   </entry>
   <entry>
-    <id>http://blog.0x3a.com/post/153468210759/monitoring-dns-inside-the-tor-network</id>
-    <title>Security: Monitoring 'DNS' inside the Tor network.</title>
-    <updated>2023-08-01T20:03:33.181727+00:00</updated>
-    <content type="html">Description: Monitoring 'DNS' inside the Tor network.&lt;br&gt;
-URL: &lt;a href='http://blog.0x3a.com/post/153468210759/monitoring-dns-inside-the-tor-network'&gt;http://blog.0x3a.com/post/153468210759/monitoring-dns-inside-the-tor-network&lt;/a&gt;</content>
-    <link href="http://blog.0x3a.com/post/153468210759/monitoring-dns-inside-the-tor-network" rel="alternate"/>
+    <id>https://github.com/dennis714/RE-for-beginners</id>
+    <title>Security: Reverse Engineering for Beginners (Book).</title>
+    <updated>2023-08-01T20:13:45.831646+00:00</updated>
+    <content type="html">Description: Reverse Engineering for Beginners (Book).&lt;br&gt;
+URL: &lt;a href='https://github.com/dennis714/RE-for-beginners'&gt;https://github.com/dennis714/RE-for-beginners&lt;/a&gt;</content>
+    <link href="https://github.com/dennis714/RE-for-beginners" rel="alternate"/>
     <category term="Security"/>
   </entry>
   <entry>
-    <id>https://goo.gl/0wvoBX</id>
-    <title>Security: Adobe Reader Privileged JavaScript 0Days (CVE-2016-6957/CVE-2016-6958).</title>
-    <updated>2023-08-01T20:03:33.181739+00:00</updated>
-    <content type="html">Description: Adobe Reader Privileged JavaScript 0Days (CVE-2016-6957/CVE-2016-6958).&lt;br&gt;
-URL: &lt;a href='https://goo.gl/0wvoBX'&gt;https://goo.gl/0wvoBX&lt;/a&gt;&lt;br&gt;
-bit.ly inspect: &lt;a href='https://goo.gl/0wvoBX+'&gt;https://goo.gl/0wvoBX+&lt;/a&gt;</content>
-    <link href="https://goo.gl/0wvoBX" rel="alternate"/>
+    <id>http://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html</id>
+    <title>Security: Quick, Free, Detection for the Masses.</title>
+    <updated>2023-08-01T20:13:45.831655+00:00</updated>
+    <content type="html">Description: Quick, Free, Detection for the Masses.&lt;br&gt;
+URL: &lt;a href='http://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html'&gt;http://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html&lt;/a&gt;&lt;br&gt;
+PoC: &lt;a href='http://canarytokens.com/generate'&gt;http://canarytokens.com/generate&lt;/a&gt;</content>
+    <link href="http://blog.thinkst.com/p/canarytokensorg-quick-free-detection.html" rel="alternate"/>
     <category term="Security"/>
   </entry>
   <entry>
-    <id>http://ropgadget.com/posts/pebwalk.html</id>
-    <title>Security: Stepping through PE structures to find function addresses.</title>
-    <updated>2023-08-01T20:03:33.181748+00:00</updated>
-    <content type="html">Description: Stepping through PE structures to find function addresses.&lt;br&gt;
-URL: &lt;a href='http://ropgadget.com/posts/pebwalk.html'&gt;http://ropgadget.com/posts/pebwalk.html&lt;/a&gt;</content>
-    <link href="http://ropgadget.com/posts/pebwalk.html" rel="alternate"/>
+    <id>https://goo.gl/qFFdEI</id>
+    <title>Security: Exploiting IoT enabled BLE smart bulb security.</title>
+    <updated>2023-08-01T20:13:45.831666+00:00</updated>
+    <content type="html">Description: Exploiting IoT enabled BLE smart bulb security.&lt;br&gt;
+URL: &lt;a href='https://goo.gl/qFFdEI'&gt;https://goo.gl/qFFdEI&lt;/a&gt;&lt;br&gt;
+bit.ly inspect: &lt;a href='https://goo.gl/qFFdEI+'&gt;https://goo.gl/qFFdEI+&lt;/a&gt;</content>
+    <link href="https://goo.gl/qFFdEI" rel="alternate"/>
     <category term="Security"/>
   </entry>
   <entry>
-    <id>https://arno0x0x.wordpress.com/2015/11/27/hacking-voip/</id>
-    <title>Security: Hacking voice over IP communications.</title>
-    <updated>2023-08-01T20:03:33.181756+00:00</updated>
-    <content type="html">Description: Hacking voice over IP communications.&lt;br&gt;
-URL: &lt;a href='https://arno0x0x.wordpress.com/2015/11/27/hacking-voip/'&gt;https://arno0x0x.wordpress.com/2015/11/27/hacking-voip/&lt;/a&gt;</content>
-    <link href="https://arno0x0x.wordpress.com/2015/11/27/hacking-voip/" rel="alternate"/>
+    <id>https://goo.gl/wrJFoL</id>
+    <title>Security: Local Privilege Escalation in Illumos via /proc.</title>
+    <updated>2023-08-01T20:13:45.831675+00:00</updated>
+    <content type="html">Description: Local Privilege Escalation in Illumos via /proc.&lt;br&gt;
+URL: &lt;a href='https://goo.gl/wrJFoL'&gt;https://goo.gl/wrJFoL&lt;/a&gt;&lt;br&gt;
+bit.ly inspect: &lt;a href='https://goo.gl/wrJFoL+'&gt;https://goo.gl/wrJFoL+&lt;/a&gt;</content>
+    <link href="https://goo.gl/wrJFoL" rel="alternate"/>
     <category term="Security"/>
   </entry>
   <entry>
-    <id>https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html</id>
-    <title>Security: GPON FTTH (Fiber To The Home) networks (in)security.</title>
-    <updated>2023-08-01T20:03:33.181766+00:00</updated>
-    <content type="html">Description: GPON FTTH (Fiber To The Home) networks (in)security.&lt;br&gt;
-URL: &lt;a href='https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html'&gt;https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html&lt;/a&gt;</content>
-    <link href="https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html" rel="alternate"/>
+    <id>http://blog.volema.com/nginx-insecurities.html#.WFMh_WGLSV5</id>
+    <title>Security: Some cases of insecure NGINX configurations.</title>
+    <updated>2023-08-01T20:13:45.831681+00:00</updated>
+    <content type="html">Description: Some cases of insecure NGINX configurations.&lt;br&gt;
+URL: &lt;a href='http://blog.volema.com/nginx-insecurities.html#.WFMh_WGLSV5'&gt;http://blog.volema.com/nginx-insecurities.html#.WFMh_WGLSV5&lt;/a&gt;</content>
+    <link href="http://blog.volema.com/nginx-insecurities.html#.WFMh_WGLSV5" rel="alternate"/>
     <category term="Security"/>
   </entry>
   <entry>
-    <id>https://www.n00py.io/2016/10/using-email-for-persistence-on-os-x/</id>
-    <title>Security: Using email for persistence on OS X.</title>
-    <updated>2023-08-01T20:03:33.181775+00:00</updated>
-    <content type="html">Description: Using email for persistence on OS X.&lt;br&gt;
-URL: &lt;a href='https://www.n00py.io/2016/10/using-email-for-persistence-on-os-x/'&gt;https://www.n00py.io/2016/10/using-email-for-persistence-on-os-x/&lt;/a&gt;</content>
-    <link href="https://www.n00py.io/2016/10/using-email-for-persistence-on-os-x/" rel="alternate"/>
+    <id>http://blog.frizk.net/2016/12/filevault-password-retrieval.html</id>
+    <title>Security: macOS FileVault2 Password Retrieval.</title>
+    <updated>2023-08-01T20:13:45.831689+00:00</updated>
+    <content type="html">Description: macOS FileVault2 Password Retrieval.&lt;br&gt;
+URL: &lt;a href='http://blog.frizk.net/2016/12/filevault-password-retrieval.html'&gt;http://blog.frizk.net/2016/12/filevault-password-retrieval.html&lt;/a&gt;</content>
+    <link href="http://blog.frizk.net/2016/12/filevault-password-retrieval.html" rel="alternate"/>
     <category term="Security"/>
   </entry>
   <entry>
-    <id>http://graffiti.gaurs.io/</id>
-    <title>Fun: Graffiti is a core java based tool used to analyse jar files.</title>
-    <updated>2023-08-01T20:03:33.181786+00:00</updated>
-    <content type="html">Description: Graffiti is a core java based tool used to analyse jar files.&lt;br&gt;
-URL: &lt;a href='http://graffiti.gaurs.io/'&gt;http://graffiti.gaurs.io/&lt;/a&gt;</content>
-    <link href="http://graffiti.gaurs.io/" rel="alternate"/>
+    <id>http://incept10n.com/</id>
+    <title>Fun: Polyglot Inception4 (JPEG = CSS = JS = HTML).</title>
+    <updated>2023-08-01T20:13:45.831695+00:00</updated>
+    <content type="html">Description: Polyglot Inception4 (JPEG = CSS = JS = HTML).&lt;br&gt;
+URL: &lt;a href='http://incept10n.com/'&gt;http://incept10n.com/&lt;/a&gt;</content>
+    <link href="http://incept10n.com/" rel="alternate"/>
     <category term="Fun"/>
   </entry>
   <entry>
-    <id>http://jerrygamblin.com/2016/11/12/automated-burp-suite-scanning-and-reporting-to-slack/</id>
-    <title>Fun: Automated Burp Suite Scanning and Reporting To Slack.</title>
-    <updated>2023-08-01T20:03:33.181795+00:00</updated>
-    <content type="html">Description: Automated Burp Suite Scanning and Reporting To Slack.&lt;br&gt;
-URL: &lt;a href='http://jerrygamblin.com/2016/11/12/automated-burp-suite-scanning-and-reporting-to-slack/'&gt;http://jerrygamblin.com/2016/11/12/automated-burp-suite-scanning-and-reporting-to-slack/&lt;/a&gt;</content>
-    <link href="http://jerrygamblin.com/2016/11/12/automated-burp-suite-scanning-and-reporting-to-slack/" rel="alternate"/>
+    <id>https://www.expeditedssl.com/aws-in-plain-english</id>
+    <title>Fun: Amazon Web Services in Plain English.</title>
+    <updated>2023-08-01T20:13:45.831702+00:00</updated>
+    <content type="html">Description: Amazon Web Services in Plain English.&lt;br&gt;
+URL: &lt;a href='https://www.expeditedssl.com/aws-in-plain-english'&gt;https://www.expeditedssl.com/aws-in-plain-english&lt;/a&gt;</content>
+    <link href="https://www.expeditedssl.com/aws-in-plain-english" rel="alternate"/>
     <category term="Fun"/>
   </entry>
   <entry>
-    <id>http://www.glamenv-septzen.net/en/view/6</id>
-    <title>Fun: Why BIOS loads MBR into 0x7C00 in x86?</title>
-    <updated>2023-08-01T20:03:33.181805+00:00</updated>
-    <content type="html">Description: Why BIOS loads MBR into 0x7C00 in x86?&lt;br&gt;
-URL: &lt;a href='http://www.glamenv-septzen.net/en/view/6'&gt;http://www.glamenv-septzen.net/en/view/6&lt;/a&gt;</content>
-    <link href="http://www.glamenv-septzen.net/en/view/6" rel="alternate"/>
+    <id>https://cmdchallenge.com/</id>
+    <title>Fun: Are you up for the command line challenge?</title>
+    <updated>2023-08-01T20:13:45.831708+00:00</updated>
+    <content type="html">Description: Are you up for the command line challenge?&lt;br&gt;
+URL: &lt;a href='https://cmdchallenge.com/'&gt;https://cmdchallenge.com/&lt;/a&gt;</content>
+    <link href="https://cmdchallenge.com/" rel="alternate"/>
     <category term="Fun"/>
   </entry>
 </feed>
