@@ -1,261 +1,248 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <id>https://pathonproject.com/zb/?3ee639285671960d#qMGhPRnf0V5RKLZYrOMn9eEwic7zg0wckpqngGZmKdw=</id>
-  <title>AppSec Ezine #492</title>
-  <updated>2023-07-29T16:54:53.491965+00:00</updated>
+  <id>http://www.pathonproject.com/zb/?8b1eaed982f180c0#JuBrxOgOvn3fIdkhO3YPug1Nt2VK+vMv/XpZGK4YDXM=</id>
+  <title>AppSec Ezine latest_atom.xml</title>
+  <updated>2023-08-01T19:43:31.244613+00:00</updated>
   <author>
-    <name>Renato Rodrigues - @simps0n - https://pathonproject.com</name>
-    <email>Renato Rodrigues - @simps0n - https://pathonproject.com</email>
+    <name>Renato Rodrigues - @simps0n - http://pathonproject.com</name>
+    <email>Renato Rodrigues - @simps0n - http://pathonproject.com</email>
   </author>
-  <link href="https://pathonproject.com/zb/?3ee639285671960d#qMGhPRnf0V5RKLZYrOMn9eEwic7zg0wckpqngGZmKdw=" rel="alternate"/>
+  <link href="http://www.pathonproject.com/zb/?8b1eaed982f180c0#JuBrxOgOvn3fIdkhO3YPug1Nt2VK+vMv/XpZGK4YDXM=" rel="alternate"/>
+  <link href="https://xl-sec.github.io/ezine-dev/latest_atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
-  <subtitle>AppSec Ezine #492</subtitle>
+  <subtitle>AppSec Ezine latest_atom.xml</subtitle>
   <entry>
-    <id>https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/</id>
-    <title>Must see: ServiceNow Insecure Access Control To Full Admin Takeover.</title>
-    <updated>2023-07-29T16:54:53.492013+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: ServiceNow Insecure Access Control To Full Admin Takeover.<br />
-URL: <a href='https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/'>https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/</a>]]></content>
-    <link href="https://x64.sh/posts/ServiceNow-Insecure-access-control-to-admin/" rel="alternate"/>
+    <id>http://secalert.net/slack-security-bug-bounty.html</id>
+    <title>Must see: Slack, a brief journey to mission control.</title>
+    <updated>2023-08-01T19:43:31.244695+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: Slack, a brief journey to mission control.<br>
+URL: <a href='http://secalert.net/slack-security-bug-bounty.html'>http://secalert.net/slack-security-bug-bounty.html</a>]]></content>
+    <link href="http://secalert.net/slack-security-bug-bounty.html" rel="alternate"/>
     <category term="Must see"/>
   </entry>
   <entry>
-    <id>https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt</id>
-    <title>Must see: Remote Code Execution in OpenSSH's forwarded ssh-agent (CVE-2023-38408).</title>
-    <updated>2023-07-29T16:54:53.492039+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Remote Code Execution in OpenSSH's forwarded ssh-agent (CVE-2023-38408).<br />
-URL: <a href='https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt'>https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt</a>]]></content>
-    <link href="https://www.qualys.com/2023/07/19/cve-2023-38408/rce-openssh-forwarded-ssh-agent.txt" rel="alternate"/>
+    <id>https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter</id>
+    <title>Must see: Open redirects that matter (Google VRP).</title>
+    <updated>2023-08-01T19:43:31.244732+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: Open redirects that matter (Google VRP).<br>
+URL: <a href='https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter'>https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter</a>]]></content>
+    <link href="https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter" rel="alternate"/>
     <category term="Must see"/>
   </entry>
   <entry>
-    <id>https://github.com/hfiref0x/WubbabooMark</id>
-    <title>Hack: Debugger Anti-Detection Benchmark.</title>
-    <updated>2023-07-29T16:54:53.492053+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Debugger Anti-Detection Benchmark.<br />
-URL: <a href='https://github.com/hfiref0x/WubbabooMark'>https://github.com/hfiref0x/WubbabooMark</a>]]></content>
-    <link href="https://github.com/hfiref0x/WubbabooMark" rel="alternate"/>
+    <id>https://goo.gl/o6KYtc</id>
+    <title>Hack: Pre-auth RCE vulnerability in Metasploit Community, Express and Pro 4.12.</title>
+    <updated>2023-08-01T19:43:31.244750+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: Pre-auth RCE vulnerability in Metasploit Community, Express and Pro 4.12.<br>
+URL: <a href='https://goo.gl/o6KYtc'>https://goo.gl/o6KYtc</a><br>
+bit.ly inspect: <a href='https://goo.gl/o6KYtc+'>https://goo.gl/o6KYtc+</a><br>
+MSF Module: <a href='https://github.com/rapid7/metasploit'>https://github.com/rapid7/metasploit</a>]]></content>
+    <link href="https://goo.gl/o6KYtc" rel="alternate"/>
     <category term="Hack"/>
   </entry>
   <entry>
-    <id>https://github.com/charlesnathansmith/whatlicense</id>
-    <title>Hack: WinLicense key extraction via Intel PIN.</title>
-    <updated>2023-07-29T16:54:53.492065+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: WinLicense key extraction via Intel PIN.<br />
-URL: <a href='https://github.com/charlesnathansmith/whatlicense'>https://github.com/charlesnathansmith/whatlicense</a>]]></content>
-    <link href="https://github.com/charlesnathansmith/whatlicense" rel="alternate"/>
+    <id>https://github.com/ScadaExposure/Shodan-PHP-REST-API</id>
+    <title>Hack: Advanced PHP5 REST API for Shodan.io.</title>
+    <updated>2023-08-01T19:43:31.244763+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: Advanced PHP5 REST API for Shodan.io.<br>
+URL: <a href='https://github.com/ScadaExposure/Shodan-PHP-REST-API'>https://github.com/ScadaExposure/Shodan-PHP-REST-API</a>]]></content>
+    <link href="https://github.com/ScadaExposure/Shodan-PHP-REST-API" rel="alternate"/>
     <category term="Hack"/>
   </entry>
   <entry>
-    <id>https://github.com/c-skills/vala-vala-hey</id>
-    <title>Hack: root LPE for latest Manjaro Linux distro.</title>
-    <updated>2023-07-29T16:54:53.492079+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: root LPE for latest Manjaro Linux distro.<br />
-URL: <a href='https://github.com/c-skills/vala-vala-hey'>https://github.com/c-skills/vala-vala-hey</a>]]></content>
-    <link href="https://github.com/c-skills/vala-vala-hey" rel="alternate"/>
+    <id>https://github.com/infosecguerrilla/ReflectiveSOInjection</id>
+    <title>Hack: Injection technique for loading of a library from memory into a host process.</title>
+    <updated>2023-08-01T19:43:31.244782+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: Injection technique for loading of a library from memory into a host process.<br>
+URL: <a href='https://github.com/infosecguerrilla/ReflectiveSOInjection'>https://github.com/infosecguerrilla/ReflectiveSOInjection</a>]]></content>
+    <link href="https://github.com/infosecguerrilla/ReflectiveSOInjection" rel="alternate"/>
     <category term="Hack"/>
   </entry>
   <entry>
-    <id>https://github.com/MzHmO/PowershellKerberos</id>
-    <title>Hack: Some scripts to abuse kerberos using Powershell.</title>
-    <updated>2023-07-29T16:54:53.492092+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Some scripts to abuse kerberos using Powershell.<br />
-URL: <a href='https://github.com/MzHmO/PowershellKerberos'>https://github.com/MzHmO/PowershellKerberos</a>]]></content>
-    <link href="https://github.com/MzHmO/PowershellKerberos" rel="alternate"/>
+    <id>https://github.com/CrySyS/membrane/</id>
+    <title>Hack: Memory forensics tool to detect code loading behavior by stealthy malware.</title>
+    <updated>2023-08-01T19:43:31.244798+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: Memory forensics tool to detect code loading behavior by stealthy malware.<br>
+URL: <a href='https://github.com/CrySyS/membrane/'>https://github.com/CrySyS/membrane/</a>]]></content>
+    <link href="https://github.com/CrySyS/membrane/" rel="alternate"/>
     <category term="Hack"/>
   </entry>
   <entry>
-    <id>https://github.com/Octoberfest7/TeamsPhisher</id>
-    <title>Hack: Send phishing messages and attachments to Microsoft Teams users.</title>
-    <updated>2023-07-29T16:54:53.492103+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Send phishing messages and attachments to Microsoft Teams users.<br />
-URL: <a href='https://github.com/Octoberfest7/TeamsPhisher'>https://github.com/Octoberfest7/TeamsPhisher</a>]]></content>
-    <link href="https://github.com/Octoberfest7/TeamsPhisher" rel="alternate"/>
+    <id>https://github.com/hahwul/droid-hunter</id>
+    <title>Hack: Android application vulnerability analysis and Android pentest tool.</title>
+    <updated>2023-08-01T19:43:31.244813+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: Android application vulnerability analysis and Android pentest tool.<br>
+URL: <a href='https://github.com/hahwul/droid-hunter'>https://github.com/hahwul/droid-hunter</a>]]></content>
+    <link href="https://github.com/hahwul/droid-hunter" rel="alternate"/>
     <category term="Hack"/>
   </entry>
   <entry>
-    <id>https://github.com/foxlox/hypobrychium</id>
-    <title>Hack: Duplicate (unowned) token from a running process without detections.</title>
-    <updated>2023-07-29T16:54:53.492119+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Duplicate (unowned) token from a running process without detections.<br />
-URL: <a href='https://github.com/foxlox/hypobrychium'>https://github.com/foxlox/hypobrychium</a>]]></content>
-    <link href="https://github.com/foxlox/hypobrychium" rel="alternate"/>
+    <id>https://github.com/MooseDojo/myBFF</id>
+    <title>Hack: myBFF - a Brute Force Framework.</title>
+    <updated>2023-08-01T19:43:31.244831+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: myBFF - a Brute Force Framework.<br>
+URL: <a href='https://github.com/MooseDojo/myBFF'>https://github.com/MooseDojo/myBFF</a>]]></content>
+    <link href="https://github.com/MooseDojo/myBFF" rel="alternate"/>
     <category term="Hack"/>
   </entry>
   <entry>
-    <id>https://github.com/FourCoreLabs/LolDriverScan</id>
-    <title>Hack: Tool that allows users to discover vulnerable drivers on their system.</title>
-    <updated>2023-07-29T16:54:53.492136+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Tool that allows users to discover vulnerable drivers on their system.<br />
-URL: <a href='https://github.com/FourCoreLabs/LolDriverScan'>https://github.com/FourCoreLabs/LolDriverScan</a>]]></content>
-    <link href="https://github.com/FourCoreLabs/LolDriverScan" rel="alternate"/>
+    <id>https://github.com/tillmannw/streams</id>
+    <title>Hack: Interactive command line tool for fast TCP stream processing.</title>
+    <updated>2023-08-01T19:43:31.244847+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: Interactive command line tool for fast TCP stream processing.<br>
+URL: <a href='https://github.com/tillmannw/streams'>https://github.com/tillmannw/streams</a>]]></content>
+    <link href="https://github.com/tillmannw/streams" rel="alternate"/>
     <category term="Hack"/>
   </entry>
   <entry>
-    <id>https://github.com/fortra/CVE-2023-28252</id>
-    <title>Hack: PoC released for Windows Common Log File System 0-Day (CVE-2023-28252).</title>
-    <updated>2023-07-29T16:54:53.492151+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: PoC released for Windows Common Log File System 0-Day (CVE-2023-28252).<br />
-URL: <a href='https://github.com/fortra/CVE-2023-28252'>https://github.com/fortra/CVE-2023-28252</a>]]></content>
-    <link href="https://github.com/fortra/CVE-2023-28252" rel="alternate"/>
+    <id>https://github.com/k4m4/onioff</id>
+    <title>Hack: An onion url inspector for inspecting deep web links.</title>
+    <updated>2023-08-01T19:43:31.244861+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: An onion url inspector for inspecting deep web links.<br>
+URL: <a href='https://github.com/k4m4/onioff'>https://github.com/k4m4/onioff</a>]]></content>
+    <link href="https://github.com/k4m4/onioff" rel="alternate"/>
     <category term="Hack"/>
   </entry>
   <entry>
-    <id>https://github.com/grossartig/vanmoof-encryption-key-exporter</id>
-    <title>Hack: Export all bike details (such as encryption key) of your VanMoof bikes.</title>
-    <updated>2023-07-29T16:54:53.492159+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Export all bike details (such as encryption key) of your VanMoof bikes.<br />
-URL: <a href='https://github.com/grossartig/vanmoof-encryption-key-exporter'>https://github.com/grossartig/vanmoof-encryption-key-exporter</a>]]></content>
-    <link href="https://github.com/grossartig/vanmoof-encryption-key-exporter" rel="alternate"/>
+    <id>https://github.com/0x27/linux.mirai</id>
+    <title>Hack: Leaked Linux.Mirai Source Code for Research/IoC Development Purposes.</title>
+    <updated>2023-08-01T19:43:31.244871+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: Leaked Linux.Mirai Source Code for Research/IoC Development Purposes.<br>
+URL: <a href='https://github.com/0x27/linux.mirai'>https://github.com/0x27/linux.mirai</a>]]></content>
+    <link href="https://github.com/0x27/linux.mirai" rel="alternate"/>
     <category term="Hack"/>
   </entry>
   <entry>
-    <id>https://github.com/Demonslay335/CryptoTester</id>
-    <title>Hack: Utility for playing with cryptography, geared towards ransomware analysis.</title>
-    <updated>2023-07-29T16:54:53.492165+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Utility for playing with cryptography, geared towards ransomware analysis.<br />
-URL: <a href='https://github.com/Demonslay335/CryptoTester'>https://github.com/Demonslay335/CryptoTester</a>]]></content>
-    <link href="https://github.com/Demonslay335/CryptoTester" rel="alternate"/>
+    <id>https://github.com/DavidBuchanan314/pwn-mbr</id>
+    <title>Hack: A simple MBR hijack demonstration.</title>
+    <updated>2023-08-01T19:43:31.244880+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: A simple MBR hijack demonstration.<br>
+URL: <a href='https://github.com/DavidBuchanan314/pwn-mbr'>https://github.com/DavidBuchanan314/pwn-mbr</a>]]></content>
+    <link href="https://github.com/DavidBuchanan314/pwn-mbr" rel="alternate"/>
     <category term="Hack"/>
   </entry>
   <entry>
-    <id>https://github.com/CognisysGroup/HadesLdr</id>
-    <title>Hack: Shellcode Loader implementing Indirect Dynamic Syscall/API Hashing and more.</title>
-    <updated>2023-07-29T16:54:53.492171+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Shellcode Loader implementing Indirect Dynamic Syscall/API Hashing and more.<br />
-URL: <a href='https://github.com/CognisysGroup/HadesLdr'>https://github.com/CognisysGroup/HadesLdr</a><br />
-Blog: <a href='https://bit.ly/3Dkr6uG'>https://bit.ly/3Dkr6uG</a>]]></content>
-    <link href="https://github.com/CognisysGroup/HadesLdr" rel="alternate"/>
-    <category term="Hack"/>
-  </entry>
-  <entry>
-    <id>https://www.r-tec.net/r-tec-blog-resource-based-constrained-delegation.html</id>
-    <title>Hack: Resource Based Constrained Delegation - Guide for AD PE and Lateral Movement.</title>
-    <updated>2023-07-29T16:54:53.492177+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Resource Based Constrained Delegation - Guide for AD PE and Lateral Movement.<br />
-URL: <a href='https://www.r-tec.net/r-tec-blog-resource-based-constrained-delegation.html'>https://www.r-tec.net/r-tec-blog-resource-based-constrained-delegation.html</a>]]></content>
-    <link href="https://www.r-tec.net/r-tec-blog-resource-based-constrained-delegation.html" rel="alternate"/>
-    <category term="Hack"/>
-  </entry>
-  <entry>
-    <id>https://tortel.li/post/insecure-scope/</id>
-    <title>Security: Unauthenticated RCE on a RIGOL oscilloscope.</title>
-    <updated>2023-07-29T16:54:53.492197+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Unauthenticated RCE on a RIGOL oscilloscope.<br />
-URL: <a href='https://tortel.li/post/insecure-scope/'>https://tortel.li/post/insecure-scope/</a>]]></content>
-    <link href="https://tortel.li/post/insecure-scope/" rel="alternate"/>
+    <id>https://goo.gl/nG92Fe</id>
+    <title>Security: Using Chrome's web-custom-data UTI to inject a stored XSS in Slack.</title>
+    <updated>2023-08-01T19:43:31.244891+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: Using Chrome's web-custom-data UTI to inject a stored XSS in Slack.<br>
+URL: <a href='https://goo.gl/nG92Fe'>https://goo.gl/nG92Fe</a><br>
+bit.ly inspect: <a href='https://goo.gl/nG92Fe+'>https://goo.gl/nG92Fe+</a><br>
+More: <a href='https://hackerone.com/reports/132104'>https://hackerone.com/reports/132104</a>]]></content>
+    <link href="https://goo.gl/nG92Fe" rel="alternate"/>
     <category term="Security"/>
   </entry>
   <entry>
-    <id>https://kpwn.de/2023/06/brute-forcing-one-time-passwords/</id>
-    <title>Security: Brute-Forcing One-Time Passwords.</title>
-    <updated>2023-07-29T16:54:53.492203+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Brute-Forcing One-Time Passwords.<br />
-URL: <a href='https://kpwn.de/2023/06/brute-forcing-one-time-passwords/'>https://kpwn.de/2023/06/brute-forcing-one-time-passwords/</a>]]></content>
-    <link href="https://kpwn.de/2023/06/brute-forcing-one-time-passwords/" rel="alternate"/>
+    <id>https://techanarchy.net/2016/10/extracting-lastpass-site-credentials-from-memory/</id>
+    <title>Security: Extracting LastPass Site Credentials from Memory.</title>
+    <updated>2023-08-01T19:43:31.244902+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: Extracting LastPass Site Credentials from Memory.<br>
+URL: <a href='https://techanarchy.net/2016/10/extracting-lastpass-site-credentials-from-memory/'>https://techanarchy.net/2016/10/extracting-lastpass-site-credentials-from-memory/</a><br>
+PoC: <a href='https://github.com/kevthehermit/volatility_plugins/tree/master/lastpass'>https://github.com/kevthehermit/volatility_plugins/tree/master/lastpass</a>]]></content>
+    <link href="https://techanarchy.net/2016/10/extracting-lastpass-site-credentials-from-memory/" rel="alternate"/>
     <category term="Security"/>
   </entry>
   <entry>
-    <id>https://powerseb.github.io/posts/LSASS-parsing-without-a-cat/</id>
-    <title>Security: Read memory dumps without a cat.</title>
-    <updated>2023-07-29T16:54:53.492209+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Read memory dumps without a cat.<br />
-URL: <a href='https://powerseb.github.io/posts/LSASS-parsing-without-a-cat/'>https://powerseb.github.io/posts/LSASS-parsing-without-a-cat/</a><br />
-Tool: <a href='https://github.com/powerseb/PowerExtract'>https://github.com/powerseb/PowerExtract</a>]]></content>
-    <link href="https://powerseb.github.io/posts/LSASS-parsing-without-a-cat/" rel="alternate"/>
+    <id>http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html</id>
+    <title>Security: Introduction to MAC OS Kernel Debugging.</title>
+    <updated>2023-08-01T19:43:31.244914+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: Introduction to MAC OS Kernel Debugging.<br>
+URL: <a href='http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html'>http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html</a>]]></content>
+    <link href="http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html" rel="alternate"/>
     <category term="Security"/>
   </entry>
   <entry>
-    <id>https://bit.ly/3O0Wqnh</id>
-    <title>Security: Patch Diffing CVE-2023-28121 to Compromise a WooCommerce.</title>
-    <updated>2023-07-29T16:54:53.492215+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Patch Diffing CVE-2023-28121 to Compromise a WooCommerce.<br />
-URL: <a href='https://bit.ly/3O0Wqnh'>https://bit.ly/3O0Wqnh</a><br />
-bit.ly inspect: <a href='https://bit.ly/3O0Wqnh+'>https://bit.ly/3O0Wqnh+</a>]]></content>
-    <link href="https://bit.ly/3O0Wqnh" rel="alternate"/>
+    <id>https://www.ixiacom.com/company/blog/equation-groups-firewall-exploit-chain</id>
+    <title>Security: The Equation Group's Firewall Exploit Chain.</title>
+    <updated>2023-08-01T19:43:31.244923+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: The Equation Group's Firewall Exploit Chain.<br>
+URL: <a href='https://www.ixiacom.com/company/blog/equation-groups-firewall-exploit-chain'>https://www.ixiacom.com/company/blog/equation-groups-firewall-exploit-chain</a>]]></content>
+    <link href="https://www.ixiacom.com/company/blog/equation-groups-firewall-exploit-chain" rel="alternate"/>
     <category term="Security"/>
   </entry>
   <entry>
-    <id>https://fingerprint.com/blog/apple-macos-mdns-brute-force/</id>
-    <title>Security: Brute-forcing a macOS user’s real name from a browser using mDNS.</title>
-    <updated>2023-07-29T16:54:53.492223+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Brute-forcing a macOS user’s real name from a browser using mDNS.<br />
-URL: <a href='https://fingerprint.com/blog/apple-macos-mdns-brute-force/'>https://fingerprint.com/blog/apple-macos-mdns-brute-force/</a>]]></content>
-    <link href="https://fingerprint.com/blog/apple-macos-mdns-brute-force/" rel="alternate"/>
+    <id>https://goo.gl/oE7r5q</id>
+    <title>Security: A tale of a DNS packet (CVE-2016-2776).</title>
+    <updated>2023-08-01T19:43:31.244946+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: A tale of a DNS packet (CVE-2016-2776).<br>
+URL: <a href='https://goo.gl/oE7r5q'>https://goo.gl/oE7r5q</a><br>
+bit.ly inspect: <a href='https://goo.gl/oE7r5q+'>https://goo.gl/oE7r5q+</a><br>
+PoC: <a href='https://github.com/infobyte/CVE'>https://github.com/infobyte/CVE</a>]]></content>
+    <link href="https://goo.gl/oE7r5q" rel="alternate"/>
     <category term="Security"/>
   </entry>
   <entry>
-    <id>https://huntr.dev/bounties/1eef5a72-f6ab-4f61-b31d-fc66f5b4b467/</id>
-    <title>Security: Mongoose Prototype Pollution Vulnerability in automattic/mongoose.</title>
-    <updated>2023-07-29T16:54:53.492234+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Mongoose Prototype Pollution Vulnerability in automattic/mongoose.<br />
-URL: <a href='https://huntr.dev/bounties/1eef5a72-f6ab-4f61-b31d-fc66f5b4b467/'>https://huntr.dev/bounties/1eef5a72-f6ab-4f61-b31d-fc66f5b4b467/</a>]]></content>
-    <link href="https://huntr.dev/bounties/1eef5a72-f6ab-4f61-b31d-fc66f5b4b467/" rel="alternate"/>
+    <id>http://www.seg.inf.uc3m.es/~guillermo-suarez-tangil/papers/2016mal-iot.pdf</id>
+    <title>Security: Analysis and Exploitation of Arduino devices in the Internet of Things.</title>
+    <updated>2023-08-01T19:43:31.244957+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: Analysis and Exploitation of Arduino devices in the Internet of Things.<br>
+URL: <a href='http://www.seg.inf.uc3m.es/~guillermo-suarez-tangil/papers/2016mal-iot.pdf'>http://www.seg.inf.uc3m.es/~guillermo-suarez-tangil/papers/2016mal-iot.pdf</a>]]></content>
+    <link href="http://www.seg.inf.uc3m.es/~guillermo-suarez-tangil/papers/2016mal-iot.pdf" rel="alternate"/>
     <category term="Security"/>
   </entry>
   <entry>
-    <id>https://ioctl.fail/echo-ac-writeup/</id>
-    <title>Security: EchOh-No! Vulnerability and PoC in a popular Minecraft Anticheat tool.</title>
-    <updated>2023-07-29T16:54:53.492240+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: EchOh-No! Vulnerability and PoC in a popular Minecraft Anticheat tool.<br />
-URL: <a href='https://ioctl.fail/echo-ac-writeup/'>https://ioctl.fail/echo-ac-writeup/</a>]]></content>
-    <link href="https://ioctl.fail/echo-ac-writeup/" rel="alternate"/>
+    <id>https://archive.is/TpVVg</id>
+    <title>Security: Capcom.sys + Usage example -  Street Fighter V, Capcom "rootkit".</title>
+    <updated>2023-08-01T19:43:31.244966+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: Capcom.sys + Usage example -  Street Fighter V, Capcom "rootkit".<br>
+URL: <a href='https://archive.is/TpVVg'>https://archive.is/TpVVg</a>]]></content>
+    <link href="https://archive.is/TpVVg" rel="alternate"/>
     <category term="Security"/>
   </entry>
   <entry>
-    <id>https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways</id>
-    <title>Security: Triple Threat: Breaking Teltonika Routers Three Ways.</title>
-    <updated>2023-07-29T16:54:53.492246+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Triple Threat: Breaking Teltonika Routers Three Ways.<br />
-URL: <a href='https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways'>https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways</a>]]></content>
-    <link href="https://claroty.com/team82/research/triple-threat-breaking-teltonika-routers-three-ways" rel="alternate"/>
+    <id>https://goo.gl/oHV88F</id>
+    <title>Security: Pwning a thin client in less than one minute, again!</title>
+    <updated>2023-08-01T19:43:31.244977+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: Pwning a thin client in less than one minute, again!<br>
+URL: <a href='https://goo.gl/oHV88F'>https://goo.gl/oHV88F</a><br>
+bit.ly inspect: <a href='https://goo.gl/oHV88F+'>https://goo.gl/oHV88F+</a>]]></content>
+    <link href="https://goo.gl/oHV88F" rel="alternate"/>
     <category term="Security"/>
   </entry>
   <entry>
-    <id>https://bit.ly/3KaYtUH</id>
-    <title>Security: Bad.Build A Critical PE Design Flaw in GCP Build Enables a Supply Chain Attack.</title>
-    <updated>2023-07-29T16:54:53.492253+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Bad.Build A Critical PE Design Flaw in GCP Build Enables a Supply Chain Attack.<br />
-URL: <a href='https://bit.ly/3KaYtUH'>https://bit.ly/3KaYtUH</a><br />
-bit.ly inspect: <a href='https://bit.ly/3KaYtUH+'>https://bit.ly/3KaYtUH+</a>]]></content>
-    <link href="https://bit.ly/3KaYtUH" rel="alternate"/>
+    <id>https://desc0n0cid0.blogspot.pt/2016/09/stack-based-buffer-overflow.html</id>
+    <title>Security: Stack-based Buffer Overflow exploitation to shell by example.</title>
+    <updated>2023-08-01T19:43:31.244986+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: Stack-based Buffer Overflow exploitation to shell by example.<br>
+URL: <a href='https://desc0n0cid0.blogspot.pt/2016/09/stack-based-buffer-overflow.html'>https://desc0n0cid0.blogspot.pt/2016/09/stack-based-buffer-overflow.html</a>]]></content>
+    <link href="https://desc0n0cid0.blogspot.pt/2016/09/stack-based-buffer-overflow.html" rel="alternate"/>
     <category term="Security"/>
   </entry>
   <entry>
-    <id>https://blog.decurity.io/dx-protocol-vulnerability-disclosure-bddff88aeb1d</id>
-    <title>Security: Dx Protocol Vuln. Disclosure - Mitigation of a 5,200,000 Smart Contract Exploit.</title>
-    <updated>2023-07-29T16:54:53.492259+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Dx Protocol Vuln. Disclosure - Mitigation of a 5,200,000 Smart Contract Exploit.<br />
-URL: <a href='https://blog.decurity.io/dx-protocol-vulnerability-disclosure-bddff88aeb1d'>https://blog.decurity.io/dx-protocol-vulnerability-disclosure-bddff88aeb1d</a>]]></content>
-    <link href="https://blog.decurity.io/dx-protocol-vulnerability-disclosure-bddff88aeb1d" rel="alternate"/>
+    <id>http://www.ms509.com/?p=439</id>
+    <title>Security: Exploit analysis and practical - From Crash to hijack PC (CVE-2015-3825).</title>
+    <updated>2023-08-01T19:43:31.244994+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: Exploit analysis and practical - From Crash to hijack PC (CVE-2015-3825).<br>
+URL: <a href='http://www.ms509.com/?p=439'>http://www.ms509.com/?p=439</a>]]></content>
+    <link href="http://www.ms509.com/?p=439" rel="alternate"/>
     <category term="Security"/>
   </entry>
   <entry>
-    <id>https://github.com/zws-im/zws</id>
-    <title>Fun: Shorten URLs using invisible spaces.</title>
-    <updated>2023-07-29T16:54:53.492269+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: Shorten URLs using invisible spaces.<br />
-URL: <a href='https://github.com/zws-im/zws'>https://github.com/zws-im/zws</a>]]></content>
-    <link href="https://github.com/zws-im/zws" rel="alternate"/>
+    <id>https://goo.gl/1HSx1l</id>
+    <title>Fun: Two years spamming spammers back.</title>
+    <updated>2023-08-01T19:43:31.245003+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: Two years spamming spammers back.<br>
+URL: <a href='https://goo.gl/1HSx1l'>https://goo.gl/1HSx1l</a><br>
+bit.ly inspect: <a href='https://goo.gl/1HSx1l+'>https://goo.gl/1HSx1l+</a>]]></content>
+    <link href="https://goo.gl/1HSx1l" rel="alternate"/>
     <category term="Fun"/>
   </entry>
   <entry>
-    <id>https://bit.ly/3Ok8z8a</id>
-    <title>Fun: How Hype Will Turn Your Security Key Into Junk.</title>
-    <updated>2023-07-29T16:54:53.492277+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: How Hype Will Turn Your Security Key Into Junk.<br />
-URL: <a href='https://bit.ly/3Ok8z8a'>https://bit.ly/3Ok8z8a</a><br />
-bit.ly inspect: <a href='https://bit.ly/3Ok8z8a+'>https://bit.ly/3Ok8z8a+</a>]]></content>
-    <link href="https://bit.ly/3Ok8z8a" rel="alternate"/>
+    <id>https://robinlinus.github.io/socialmedia-leak/</id>
+    <title>Fun: Your Social Media Fingerprint.</title>
+    <updated>2023-08-01T19:43:31.245014+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: Your Social Media Fingerprint.<br>
+URL: <a href='https://robinlinus.github.io/socialmedia-leak/'>https://robinlinus.github.io/socialmedia-leak/</a>]]></content>
+    <link href="https://robinlinus.github.io/socialmedia-leak/" rel="alternate"/>
     <category term="Fun"/>
   </entry>
   <entry>
-    <id>https://til.simonwillison.net/python/stdlib-cli-tools</id>
-    <title>Fun: CLI tools hidden in the Python standard library.</title>
-    <updated>2023-07-29T16:54:53.492283+00:00</updated>
-    <content type="CDATA"><![CDATA[Description: CLI tools hidden in the Python standard library.<br />
-URL: <a href='https://til.simonwillison.net/python/stdlib-cli-tools'>https://til.simonwillison.net/python/stdlib-cli-tools</a>]]></content>
-    <link href="https://til.simonwillison.net/python/stdlib-cli-tools" rel="alternate"/>
+    <id>https://github.com/JordanMilne/YMail-Pineapple</id>
+    <title>Fun: MITMing Yahoo! Mail with a Wifi Pineapple Mark V and Flash.</title>
+    <updated>2023-08-01T19:43:31.245024+00:00</updated>
+    <content type="CDATA"><![CDATA[Description: MITMing Yahoo! Mail with a Wifi Pineapple Mark V and Flash.<br>
+URL: <a href='https://github.com/JordanMilne/YMail-Pineapple'>https://github.com/JordanMilne/YMail-Pineapple</a>]]></content>
+    <link href="https://github.com/JordanMilne/YMail-Pineapple" rel="alternate"/>
     <category term="Fun"/>
   </entry>
 </feed>
