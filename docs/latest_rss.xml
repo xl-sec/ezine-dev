@@ -1,222 +1,221 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>AppSec Ezine GH latest_rss.xml</title>
-    <link>http://pathonproject.com/zb/?5299481dab5f0f70#QbuCv4nqJ4O4YOO03DWCxjFEnfhOSiKz5jQBw1gwnq8=</link>
-    <atom:link href="https://xl-sec.github.io/ezine-dev/latest_rss.xml" rel="self"/>
-    <description>AppSec Ezine GH latest_rss.xml D</description>
+    <title>AppSec Ezine #135</title>
+    <link>https://xl-sec.github.io/ezine-dev/latest.rss</link>
+    <description>AppSec Ezine #135</description>
+    <atom:link href="https://xl-sec.github.io/ezine-dev/latest.rss" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Aug 2023 20:14:18 +0000</lastBuildDate>
-    <pubDate>Tue, 01 Aug 2023 20:14:18 +0000</pubDate>
+    <lastBuildDate>Thu, 03 Aug 2023 10:29:17 +0000</lastBuildDate>
+    <pubDate>Fri, 16 Sep 2016 00:00:00 +0000</pubDate>
     <item>
-      <title>Must see: Slack, a brief journey to mission control.</title>
-      <link>http://secalert.net/slack-security-bug-bounty.html</link>
-      <description>Description: Slack, a brief journey to mission control.&lt;br&gt;
-URL: &lt;a href='http://secalert.net/slack-security-bug-bounty.html'&gt;http://secalert.net/slack-security-bug-bounty.html&lt;/a&gt;</description>
-      <guid isPermaLink="false">http://secalert.net/slack-security-bug-bounty.html</guid>
+      <title>Must see: ASUS Broken API Authentication.</title>
+      <link>https://blog.fletchto99.com/2016/september/asus-disclosure/</link>
+      <description>Description: ASUS Broken API Authentication.&lt;br&gt;
+URL: &lt;a href='https://blog.fletchto99.com/2016/september/asus-disclosure/'&gt;https://blog.fletchto99.com/2016/september/asus-disclosure/&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://blog.fletchto99.com/2016/september/asus-disclosure/</guid>
       <category>Must see</category>
     </item>
     <item>
-      <title>Must see: Open redirects that matter (Google VRP).</title>
-      <link>https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter</link>
-      <description>Description: Open redirects that matter (Google VRP).&lt;br&gt;
-URL: &lt;a href='https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter'&gt;https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://sites.google.com/site/bughunteruniversity/best-reports/openredirectsthatmatter</guid>
+      <title>Must see: Reading Uber’s Internal Emails (Bug Bounty report worth $10,000).</title>
+      <link>https://goo.gl/kjWNZv</link>
+      <description>Description: Reading Uber’s Internal Emails (Bug Bounty report worth $10,000).&lt;br&gt;
+URL: &lt;a href='https://goo.gl/kjWNZv'&gt;https://goo.gl/kjWNZv&lt;/a&gt;&lt;br&gt;
+bit.ly inspect: &lt;a href='https://goo.gl/kjWNZv+'&gt;https://goo.gl/kjWNZv+&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://goo.gl/kjWNZv</guid>
       <category>Must see</category>
     </item>
     <item>
-      <title>Hack: Pre-auth RCE vulnerability in Metasploit Community, Express and Pro 4.12.</title>
-      <link>https://goo.gl/o6KYtc</link>
-      <description>Description: Pre-auth RCE vulnerability in Metasploit Community, Express and Pro 4.12.&lt;br&gt;
-URL: &lt;a href='https://goo.gl/o6KYtc'&gt;https://goo.gl/o6KYtc&lt;/a&gt;&lt;br&gt;
-bit.ly inspect: &lt;a href='https://goo.gl/o6KYtc+'&gt;https://goo.gl/o6KYtc+&lt;/a&gt;&lt;br&gt;
-MSF Module: &lt;a href='https://github.com/rapid7/metasploit'&gt;https://github.com/rapid7/metasploit&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://goo.gl/o6KYtc</guid>
+      <title>Hack: Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other Vulns.</title>
+      <link>https://github.com/v3n0m-Scanner/V3n0M-Scanner</link>
+      <description>Description: Scanner in Python3.5 for SQLi/XSS/LFI/RFI and other Vulns.&lt;br&gt;
+URL: &lt;a href='https://github.com/v3n0m-Scanner/V3n0M-Scanner'&gt;https://github.com/v3n0m-Scanner/V3n0M-Scanner&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://github.com/v3n0m-Scanner/V3n0M-Scanner</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: Advanced PHP5 REST API for Shodan.io.</title>
-      <link>https://github.com/ScadaExposure/Shodan-PHP-REST-API</link>
-      <description>Description: Advanced PHP5 REST API for Shodan.io.&lt;br&gt;
-URL: &lt;a href='https://github.com/ScadaExposure/Shodan-PHP-REST-API'&gt;https://github.com/ScadaExposure/Shodan-PHP-REST-API&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://github.com/ScadaExposure/Shodan-PHP-REST-API</guid>
+      <title>Hack: Python tools to analyze Microsoft OLE2 files.</title>
+      <link>https://github.com/decalage2/oletools</link>
+      <description>Description: Python tools to analyze Microsoft OLE2 files.&lt;br&gt;
+URL: &lt;a href='https://github.com/decalage2/oletools'&gt;https://github.com/decalage2/oletools&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://github.com/decalage2/oletools</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: Injection technique for loading of a library from memory into a host process.</title>
-      <link>https://github.com/infosecguerrilla/ReflectiveSOInjection</link>
-      <description>Description: Injection technique for loading of a library from memory into a host process.&lt;br&gt;
-URL: &lt;a href='https://github.com/infosecguerrilla/ReflectiveSOInjection'&gt;https://github.com/infosecguerrilla/ReflectiveSOInjection&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://github.com/infosecguerrilla/ReflectiveSOInjection</guid>
+      <title>Hack: mimikatz - Golden Ticket + DCSync.</title>
+      <link>https://blog.didierstevens.com/2016/08/12/mimikatz-golden-ticket-dcsync/</link>
+      <description>Description: mimikatz - Golden Ticket + DCSync.&lt;br&gt;
+URL: &lt;a href='https://blog.didierstevens.com/2016/08/12/mimikatz-golden-ticket-dcsync/'&gt;https://blog.didierstevens.com/2016/08/12/mimikatz-golden-ticket-dcsync/&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://blog.didierstevens.com/2016/08/12/mimikatz-golden-ticket-dcsync/</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: Memory forensics tool to detect code loading behavior by stealthy malware.</title>
-      <link>https://github.com/CrySyS/membrane/</link>
-      <description>Description: Memory forensics tool to detect code loading behavior by stealthy malware.&lt;br&gt;
-URL: &lt;a href='https://github.com/CrySyS/membrane/'&gt;https://github.com/CrySyS/membrane/&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://github.com/CrySyS/membrane/</guid>
+      <title>Hack: The Witchcraft Compiler Collection.</title>
+      <link>https://github.com/endrazine/wcc</link>
+      <description>Description: The Witchcraft Compiler Collection.&lt;br&gt;
+URL: &lt;a href='https://github.com/endrazine/wcc'&gt;https://github.com/endrazine/wcc&lt;/a&gt;&lt;br&gt;
+Slides: &lt;a href='https://goo.gl/OYhxLC'&gt;https://goo.gl/OYhxLC&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://github.com/endrazine/wcc</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: Android application vulnerability analysis and Android pentest tool.</title>
-      <link>https://github.com/hahwul/droid-hunter</link>
-      <description>Description: Android application vulnerability analysis and Android pentest tool.&lt;br&gt;
-URL: &lt;a href='https://github.com/hahwul/droid-hunter'&gt;https://github.com/hahwul/droid-hunter&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://github.com/hahwul/droid-hunter</guid>
+      <title>Hack: Pentesting framework using Node.js powers. Specially focused in VoIP/UC.</title>
+      <link>https://github.com/jesusprubio/bluebox-ng/</link>
+      <description>Description: Pentesting framework using Node.js powers. Specially focused in VoIP/UC.&lt;br&gt;
+URL: &lt;a href='https://github.com/jesusprubio/bluebox-ng/'&gt;https://github.com/jesusprubio/bluebox-ng/&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://github.com/jesusprubio/bluebox-ng/</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: myBFF - a Brute Force Framework.</title>
-      <link>https://github.com/MooseDojo/myBFF</link>
-      <description>Description: myBFF - a Brute Force Framework.&lt;br&gt;
-URL: &lt;a href='https://github.com/MooseDojo/myBFF'&gt;https://github.com/MooseDojo/myBFF&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://github.com/MooseDojo/myBFF</guid>
+      <title>Hack: Keyboard-walk generator with configureable basechars, keymap and routes.</title>
+      <link>https://github.com/hashcat/kwprocessor</link>
+      <description>Description: Keyboard-walk generator with configureable basechars, keymap and routes.&lt;br&gt;
+URL: &lt;a href='https://github.com/hashcat/kwprocessor'&gt;https://github.com/hashcat/kwprocessor&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://github.com/hashcat/kwprocessor</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: Interactive command line tool for fast TCP stream processing.</title>
-      <link>https://github.com/tillmannw/streams</link>
-      <description>Description: Interactive command line tool for fast TCP stream processing.&lt;br&gt;
-URL: &lt;a href='https://github.com/tillmannw/streams'&gt;https://github.com/tillmannw/streams&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://github.com/tillmannw/streams</guid>
+      <title>Hack: PHP Session Data Injection Vulnerability.</title>
+      <link>https://gist.github.com/chtg/bac6459587dbb79190d0a4c235901f03</link>
+      <description>Description: PHP Session Data Injection Vulnerability.&lt;br&gt;
+URL: &lt;a href='https://gist.github.com/chtg/bac6459587dbb79190d0a4c235901f03'&gt;https://gist.github.com/chtg/bac6459587dbb79190d0a4c235901f03&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://gist.github.com/chtg/bac6459587dbb79190d0a4c235901f03</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: An onion url inspector for inspecting deep web links.</title>
-      <link>https://github.com/k4m4/onioff</link>
-      <description>Description: An onion url inspector for inspecting deep web links.&lt;br&gt;
-URL: &lt;a href='https://github.com/k4m4/onioff'&gt;https://github.com/k4m4/onioff&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://github.com/k4m4/onioff</guid>
+      <title>Hack: Use After Free Vulnerability in unserialize().</title>
+      <link>https://gist.github.com/chtg/a2acf86d44315146e85b6f88f4d2b5eb</link>
+      <description>Description: Use After Free Vulnerability in unserialize().&lt;br&gt;
+URL: &lt;a href='https://gist.github.com/chtg/a2acf86d44315146e85b6f88f4d2b5eb'&gt;https://gist.github.com/chtg/a2acf86d44315146e85b6f88f4d2b5eb&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://gist.github.com/chtg/a2acf86d44315146e85b6f88f4d2b5eb</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: Leaked Linux.Mirai Source Code for Research/IoC Development Purposes.</title>
-      <link>https://github.com/0x27/linux.mirai</link>
-      <description>Description: Leaked Linux.Mirai Source Code for Research/IoC Development Purposes.&lt;br&gt;
-URL: &lt;a href='https://github.com/0x27/linux.mirai'&gt;https://github.com/0x27/linux.mirai&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://github.com/0x27/linux.mirai</guid>
+      <title>Hack: Tool for browsing and downloading files from zip files on remote webserver.</title>
+      <link>https://github.com/tihmstar/partialZipBrowser</link>
+      <description>Description: Tool for browsing and downloading files from zip files on remote webserver.&lt;br&gt;
+URL: &lt;a href='https://github.com/tihmstar/partialZipBrowser'&gt;https://github.com/tihmstar/partialZipBrowser&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://github.com/tihmstar/partialZipBrowser</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Hack: A simple MBR hijack demonstration.</title>
-      <link>https://github.com/DavidBuchanan314/pwn-mbr</link>
-      <description>Description: A simple MBR hijack demonstration.&lt;br&gt;
-URL: &lt;a href='https://github.com/DavidBuchanan314/pwn-mbr'&gt;https://github.com/DavidBuchanan314/pwn-mbr&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://github.com/DavidBuchanan314/pwn-mbr</guid>
+      <title>Hack: Proof of Concept code for CVE-2016-5696.</title>
+      <link>https://github.com/violentshell/rover</link>
+      <description>Description: Proof of Concept code for CVE-2016-5696.&lt;br&gt;
+URL: &lt;a href='https://github.com/violentshell/rover'&gt;https://github.com/violentshell/rover&lt;/a&gt;&lt;br&gt;
+Extra: &lt;a href='https://github.com/jduck/challack'&gt;https://github.com/jduck/challack&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://github.com/violentshell/rover</guid>
       <category>Hack</category>
     </item>
     <item>
-      <title>Security: Using Chrome's web-custom-data UTI to inject a stored XSS in Slack.</title>
-      <link>https://goo.gl/nG92Fe</link>
-      <description>Description: Using Chrome's web-custom-data UTI to inject a stored XSS in Slack.&lt;br&gt;
-URL: &lt;a href='https://goo.gl/nG92Fe'&gt;https://goo.gl/nG92Fe&lt;/a&gt;&lt;br&gt;
-bit.ly inspect: &lt;a href='https://goo.gl/nG92Fe+'&gt;https://goo.gl/nG92Fe+&lt;/a&gt;&lt;br&gt;
-More: &lt;a href='https://hackerone.com/reports/132104'&gt;https://hackerone.com/reports/132104&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://goo.gl/nG92Fe</guid>
+      <title>Security: HoneyBadger is a TCP attack inquisitor and 0Day catcher.</title>
+      <link>https://honeybadger.readthedocs.io/en/latest/</link>
+      <description>Description: HoneyBadger is a TCP attack inquisitor and 0Day catcher.&lt;br&gt;
+URL: &lt;a href='https://honeybadger.readthedocs.io/en/latest/'&gt;https://honeybadger.readthedocs.io/en/latest/&lt;/a&gt;&lt;br&gt;
+PoC: &lt;a href='https://github.com/david415/HoneyBadger'&gt;https://github.com/david415/HoneyBadger&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://honeybadger.readthedocs.io/en/latest/</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: Extracting LastPass Site Credentials from Memory.</title>
-      <link>https://techanarchy.net/2016/10/extracting-lastpass-site-credentials-from-memory/</link>
-      <description>Description: Extracting LastPass Site Credentials from Memory.&lt;br&gt;
-URL: &lt;a href='https://techanarchy.net/2016/10/extracting-lastpass-site-credentials-from-memory/'&gt;https://techanarchy.net/2016/10/extracting-lastpass-site-credentials-from-memory/&lt;/a&gt;&lt;br&gt;
-PoC: &lt;a href='https://github.com/kevthehermit/volatility_plugins/tree/master/lastpass'&gt;https://github.com/kevthehermit/volatility_plugins/tree/master/lastpass&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://techanarchy.net/2016/10/extracting-lastpass-site-credentials-from-memory/</guid>
+      <title>Security: Get Arbitrary Wildcard SSL Certs from Comodo via Dangling Markup Injection.</title>
+      <link>https://goo.gl/nj3zNK</link>
+      <description>Description: Get Arbitrary Wildcard SSL Certs from Comodo via Dangling Markup Injection.&lt;br&gt;
+URL: &lt;a href='https://goo.gl/nj3zNK'&gt;https://goo.gl/nj3zNK&lt;/a&gt;&lt;br&gt;
+bit.ly inspect: &lt;a href='https://goo.gl/nj3zNK+'&gt;https://goo.gl/nj3zNK+&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://goo.gl/nj3zNK</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: Introduction to MAC OS Kernel Debugging.</title>
-      <link>http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html</link>
-      <description>Description: Introduction to MAC OS Kernel Debugging.&lt;br&gt;
-URL: &lt;a href='http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html'&gt;http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html&lt;/a&gt;</description>
-      <guid isPermaLink="false">http://lightbulbone.com/2016/10/04/intro-to-macos-kernel-debugging.html</guid>
+      <title>Security: Flip Feng Shui - New VM attack vector.</title>
+      <link>https://www.vusec.net/projects/flip-feng-shui/</link>
+      <description>Description: Flip Feng Shui - New VM attack vector.&lt;br&gt;
+URL: &lt;a href='https://www.vusec.net/projects/flip-feng-shui/'&gt;https://www.vusec.net/projects/flip-feng-shui/&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://www.vusec.net/projects/flip-feng-shui/</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: The Equation Group's Firewall Exploit Chain.</title>
-      <link>https://www.ixiacom.com/company/blog/equation-groups-firewall-exploit-chain</link>
-      <description>Description: The Equation Group's Firewall Exploit Chain.&lt;br&gt;
-URL: &lt;a href='https://www.ixiacom.com/company/blog/equation-groups-firewall-exploit-chain'&gt;https://www.ixiacom.com/company/blog/equation-groups-firewall-exploit-chain&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://www.ixiacom.com/company/blog/equation-groups-firewall-exploit-chain</guid>
+      <title>Security: "Fileless" UAC Bypass Using eventvwr.exe and Registry Hijacking.</title>
+      <link>https://goo.gl/m1JdoI</link>
+      <description>Description: "Fileless" UAC Bypass Using eventvwr.exe and Registry Hijacking.&lt;br&gt;
+URL: &lt;a href='https://goo.gl/m1JdoI'&gt;https://goo.gl/m1JdoI&lt;/a&gt;&lt;br&gt;
+bit.ly inspect: &lt;a href='https://goo.gl/m1JdoI+'&gt;https://goo.gl/m1JdoI+&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://goo.gl/m1JdoI</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: A tale of a DNS packet (CVE-2016-2776).</title>
-      <link>https://goo.gl/oE7r5q</link>
-      <description>Description: A tale of a DNS packet (CVE-2016-2776).&lt;br&gt;
-URL: &lt;a href='https://goo.gl/oE7r5q'&gt;https://goo.gl/oE7r5q&lt;/a&gt;&lt;br&gt;
-bit.ly inspect: &lt;a href='https://goo.gl/oE7r5q+'&gt;https://goo.gl/oE7r5q+&lt;/a&gt;&lt;br&gt;
-PoC: &lt;a href='https://github.com/infobyte/CVE'&gt;https://github.com/infobyte/CVE&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://goo.gl/oE7r5q</guid>
+      <title>Security: Public penetration testing reports Dump.</title>
+      <link>https://github.com/juliocesarfort/public-pentesting-reports</link>
+      <description>Description: Public penetration testing reports Dump.&lt;br&gt;
+URL: &lt;a href='https://github.com/juliocesarfort/public-pentesting-reports'&gt;https://github.com/juliocesarfort/public-pentesting-reports&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://github.com/juliocesarfort/public-pentesting-reports</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: Analysis and Exploitation of Arduino devices in the Internet of Things.</title>
-      <link>http://www.seg.inf.uc3m.es/~guillermo-suarez-tangil/papers/2016mal-iot.pdf</link>
-      <description>Description: Analysis and Exploitation of Arduino devices in the Internet of Things.&lt;br&gt;
-URL: &lt;a href='http://www.seg.inf.uc3m.es/~guillermo-suarez-tangil/papers/2016mal-iot.pdf'&gt;http://www.seg.inf.uc3m.es/~guillermo-suarez-tangil/papers/2016mal-iot.pdf&lt;/a&gt;</description>
-      <guid isPermaLink="false">http://www.seg.inf.uc3m.es/~guillermo-suarez-tangil/papers/2016mal-iot.pdf</guid>
+      <title>Security: Samsung's smart camera. A tale of IoT &amp; network security.</title>
+      <link>https://goo.gl/0C91rO</link>
+      <description>Description: Samsung's smart camera. A tale of IoT &amp; network security.&lt;br&gt;
+URL: &lt;a href='https://goo.gl/0C91rO'&gt;https://goo.gl/0C91rO&lt;/a&gt;&lt;br&gt;
+bit.ly inspect: &lt;a href='https://goo.gl/0C91rO+'&gt;https://goo.gl/0C91rO+&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://goo.gl/0C91rO</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: Capcom.sys + Usage example -  Street Fighter V, Capcom "rootkit".</title>
-      <link>https://archive.is/TpVVg</link>
-      <description>Description: Capcom.sys + Usage example -  Street Fighter V, Capcom "rootkit".&lt;br&gt;
-URL: &lt;a href='https://archive.is/TpVVg'&gt;https://archive.is/TpVVg&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://archive.is/TpVVg</guid>
+      <title>Security: Apache ActiveMQ Pwn (CVE-2016-0782).</title>
+      <link>https://httpsonly.blogspot.pt/2016/08/cve-2016-0782-writeup.html</link>
+      <description>Description: Apache ActiveMQ Pwn (CVE-2016-0782).&lt;br&gt;
+URL: &lt;a href='https://httpsonly.blogspot.pt/2016/08/cve-2016-0782-writeup.html'&gt;https://httpsonly.blogspot.pt/2016/08/cve-2016-0782-writeup.html&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://httpsonly.blogspot.pt/2016/08/cve-2016-0782-writeup.html</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: Pwning a thin client in less than one minute, again!</title>
-      <link>https://goo.gl/oHV88F</link>
-      <description>Description: Pwning a thin client in less than one minute, again!&lt;br&gt;
-URL: &lt;a href='https://goo.gl/oHV88F'&gt;https://goo.gl/oHV88F&lt;/a&gt;&lt;br&gt;
-bit.ly inspect: &lt;a href='https://goo.gl/oHV88F+'&gt;https://goo.gl/oHV88F+&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://goo.gl/oHV88F</guid>
+      <title>Security: Abusing Kerberos to NTLM fallback to defeat BitLocker FDE.</title>
+      <link>https://goo.gl/JIOvxT</link>
+      <description>Description: Abusing Kerberos to NTLM fallback to defeat BitLocker FDE.&lt;br&gt;
+URL: &lt;a href='https://goo.gl/JIOvxT'&gt;https://goo.gl/JIOvxT&lt;/a&gt;&lt;br&gt;
+bit.ly inspect: &lt;a href='https://goo.gl/JIOvxT+'&gt;https://goo.gl/JIOvxT+&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://goo.gl/JIOvxT</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: Stack-based Buffer Overflow exploitation to shell by example.</title>
-      <link>https://desc0n0cid0.blogspot.pt/2016/09/stack-based-buffer-overflow.html</link>
-      <description>Description: Stack-based Buffer Overflow exploitation to shell by example.&lt;br&gt;
-URL: &lt;a href='https://desc0n0cid0.blogspot.pt/2016/09/stack-based-buffer-overflow.html'&gt;https://desc0n0cid0.blogspot.pt/2016/09/stack-based-buffer-overflow.html&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://desc0n0cid0.blogspot.pt/2016/09/stack-based-buffer-overflow.html</guid>
+      <title>Security: The 101 of ELF Binaries on Linux - Understanding and Analysis.</title>
+      <link>https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/</link>
+      <description>Description: The 101 of ELF Binaries on Linux - Understanding and Analysis.&lt;br&gt;
+URL: &lt;a href='https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/'&gt;https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Security: Exploit analysis and practical - From Crash to hijack PC (CVE-2015-3825).</title>
-      <link>http://www.ms509.com/?p=439</link>
-      <description>Description: Exploit analysis and practical - From Crash to hijack PC (CVE-2015-3825).&lt;br&gt;
-URL: &lt;a href='http://www.ms509.com/?p=439'&gt;http://www.ms509.com/?p=439&lt;/a&gt;</description>
-      <guid isPermaLink="false">http://www.ms509.com/?p=439</guid>
+      <title>Security: VxWorks - Execute My Packets.</title>
+      <link>https://blog.exodusintel.com/2016/08/09/vxworks-execute-my-packets/</link>
+      <description>Description: VxWorks - Execute My Packets.&lt;br&gt;
+URL: &lt;a href='https://blog.exodusintel.com/2016/08/09/vxworks-execute-my-packets/'&gt;https://blog.exodusintel.com/2016/08/09/vxworks-execute-my-packets/&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://blog.exodusintel.com/2016/08/09/vxworks-execute-my-packets/</guid>
       <category>Security</category>
     </item>
     <item>
-      <title>Fun: Two years spamming spammers back.</title>
-      <link>https://goo.gl/1HSx1l</link>
-      <description>Description: Two years spamming spammers back.&lt;br&gt;
-URL: &lt;a href='https://goo.gl/1HSx1l'&gt;https://goo.gl/1HSx1l&lt;/a&gt;&lt;br&gt;
-bit.ly inspect: &lt;a href='https://goo.gl/1HSx1l+'&gt;https://goo.gl/1HSx1l+&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://goo.gl/1HSx1l</guid>
+      <title>Fun: Oh shit, git!</title>
+      <link>http://ohshitgit.com/</link>
+      <description>Description: Oh shit, git!&lt;br&gt;
+URL: &lt;a href='http://ohshitgit.com/'&gt;http://ohshitgit.com/&lt;/a&gt;</description>
+      <guid isPermaLink="false">http://ohshitgit.com/</guid>
       <category>Fun</category>
     </item>
     <item>
-      <title>Fun: Your Social Media Fingerprint.</title>
-      <link>https://robinlinus.github.io/socialmedia-leak/</link>
-      <description>Description: Your Social Media Fingerprint.&lt;br&gt;
-URL: &lt;a href='https://robinlinus.github.io/socialmedia-leak/'&gt;https://robinlinus.github.io/socialmedia-leak/&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://robinlinus.github.io/socialmedia-leak/</guid>
+      <title>Fun: Computer Randomly Plays Classical Music.</title>
+      <link>https://support.microsoft.com/en-us/kb/261186</link>
+      <description>Description: Computer Randomly Plays Classical Music.&lt;br&gt;
+URL: &lt;a href='https://support.microsoft.com/en-us/kb/261186'&gt;https://support.microsoft.com/en-us/kb/261186&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://support.microsoft.com/en-us/kb/261186</guid>
       <category>Fun</category>
     </item>
     <item>
-      <title>Fun: MITMing Yahoo! Mail with a Wifi Pineapple Mark V and Flash.</title>
-      <link>https://github.com/JordanMilne/YMail-Pineapple</link>
-      <description>Description: MITMing Yahoo! Mail with a Wifi Pineapple Mark V and Flash.&lt;br&gt;
-URL: &lt;a href='https://github.com/JordanMilne/YMail-Pineapple'&gt;https://github.com/JordanMilne/YMail-Pineapple&lt;/a&gt;</description>
-      <guid isPermaLink="false">https://github.com/JordanMilne/YMail-Pineapple</guid>
+      <title>Fun: Blog from the Command-Line.</title>
+      <link>https://weblog.sh/</link>
+      <description>Description: Blog from the Command-Line.&lt;br&gt;
+URL: &lt;a href='https://weblog.sh/'&gt;https://weblog.sh/&lt;/a&gt;</description>
+      <guid isPermaLink="false">https://weblog.sh/</guid>
       <category>Fun</category>
     </item>
   </channel>
