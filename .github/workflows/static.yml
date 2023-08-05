@@ -42,6 +42,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install feedgen
           if [ -f RSSGenerator/requirements.txt ]; then pip install -r RSSGenerator/requirements.txt; fi
+      - name: Run RSS Generator
+        run: |
+          latest=$(ls -v Ezines/ | tail -n 1)
+          echo "LATEST: " $latest
+          python RSSGenerator/rssgenerator.py "Ezines/$latest" > latest.xml
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
