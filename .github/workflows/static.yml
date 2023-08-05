@@ -45,13 +45,13 @@ jobs:
       - name: Run RSS Generator
         run: |
           latest=$(ls -v Ezines/ | tail -n 1)
-          echo "LATEST: " $latest
+          echo "Generating: " $latest
           python RSSGenerator/rssgenerator.py "Ezines/$latest" > latest.xml
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
           # Upload entire repository
-          path: '.'
+          path: 'latest.xml'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
