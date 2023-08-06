@@ -51,7 +51,7 @@ jobs:
           python RSSGenerator/rssgenerator.py "Ezines/$latest" > output/latest.xml
       - uses: maxheld83/pandoc@v2
         with:
-          args: "--standalone --output=output/index.html --metadata title='AppSec Ezine' README.md"
+          args: '--standalone --output=output/index.html --metadata title="AppSec Ezine" README.md'
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
