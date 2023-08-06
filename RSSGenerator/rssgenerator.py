@@ -50,7 +50,7 @@ d2c = {
     "Content Helpers (0x)": 'credits',
 }
 
-def parse_ezine(path):
+def parse_ezine(path, mode = None):
     result = Ezine()
     current_category = None
     current_item = EzineItem()
@@ -90,7 +90,7 @@ def parse_ezine(path):
                     result.credits = bytes.fromhex(row).decode('ascii')
                 continue
             
-            current_item.content_raw += row + "<br />\n"
+            current_item.content_raw += row + "<br>\n"
             if row.startswith("Description:"):
             # if row.startswith("Description:") or row.startswith("Descritpion:") or row.startswith("Descripion:") or row.startswith("Descriptions:") or row.startswith("Descxription:") or row.startswith("Descrription:") or row.startswith("Descripton:"):
                 current_item.title = row[13:]
@@ -117,39 +117,51 @@ def parse_ezine(path):
 
             # print(current_category, row[:-1])
     # print(result)
-    generate_feed(result)
+    generate_feed(result, mode)
 
-def generate_feed(ezine):
+def generate_feed(ezine, mode = None):
     fg = FeedGenerator()
     fg.id(ezine.url)
     fg.title('AppSec Ezine #' + ezine.edition)
     fg.description('AppSec Ezine #' + ezine.edition)
     fg.pubDate(ezine.date)
-    fg.author({'name': ezine.credits,'email': ezine.credits})
+    fg.author({'name': ezine.credits,'email': "simpsonpt@gmail.com"})
     fg.link( href=ezine.url, rel='alternate' )
     # fg.logo('http://ex.com/logo.jpg')
     # fg.subtitle('This is a cool feed!')
-    # fg.link( href='http://larskiesow.de/test.atom', rel='self' )
+    fg.link( href='https://xl-sec.github.io/ezine-dev/latest.rss', rel='self' )
     fg.language('en')
 
     for item in ezine.items:
         fe = fg.add_entry(order='append')
         fe.title(categories[item.category] + ": " + item.title)
         fe.content(item.content_raw.strip(), type="CDATA")
-        fe.content("<br />\n".join(item.content), type="CDATA")
+        fe.content("<br>\n".join(item.content), type="CDATA")
+        fe.content("<br>\n".join(item.content), type="html")
         fe.category({'term': categories[item.category]})
         fe.id(item.url)
         fe.link(href=item.url)
 
-    print(fg.rss_str(pretty=True).decode(), end="")
-    # print(fg.atom_str(pretty=True).decode(), end="")
+    if mode == None or mode == "rss":
+        print(fg.rss_str(pretty=True).decode(), end="")
+    else:
+        print(fg.atom_str(pretty=True).decode(), end="")
 
 def main():
-    if len(sys.argv) != 2:
-        print("Error: expecting path to ezine as only argument")
+    if len(sys.argv) < 2 or len(sys.argv) > 3:
+        print("Error: expecting path and mode as arguments")
+        print("rssgenerator.py <path> <rss/atom?>")
         sys.exit(1)
+    
+    mode = None
+    if len(sys.argv) == 3:
+        if sys.argv[2] == "rss" or sys.argv[2] == "atom":
+            mode = sys.argv[2]
+        else:
+            print("Error: Unknown mode, only rss and atom is allowed (default: rss)")
+            sys.exit(2)
 
-    parse_ezine(sys.argv[1])
+    parse_ezine(sys.argv[1], mode)
 
 if __name__ == "__main__":
     main()

@@ -48,7 +48,8 @@ jobs:
         run: |
           latest=$(ls -v Ezines/ | tail -n 1)
           echo "Generating: " $latest
-          python RSSGenerator/rssgenerator.py "Ezines/$latest" > output/latest.xml
+          python RSSGenerator/rssgenerator.py "Ezines/$latest" rss > output/latest.rss
+          python RSSGenerator/rssgenerator.py "Ezines/$latest" atom > output/latest.atom
       - uses: maxheld83/pandoc@v2
         with:
           args: '--standalone --output=output/index.html --metadata pagetitle="AppSec Ezine" README.md'
